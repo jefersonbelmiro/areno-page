@@ -1,0 +1,59 @@
+{
+  "2025-08-16": {
+    "date": "2025-08-16",
+    "totalGames": 3,
+    "games": [
+      {
+        "homeTeam": "Flamengo",
+        "awayTeam": "Palmeiras",
+        "competition": "Brazilian Championship",
+        "time": "16:00",
+        "whereToWatch": ["SporTV", "Globo"],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+      },
+      {
+        "homeTeam": "Barcelona",
+        "awayTeam": "Real Madrid",
+        "competition": "La Liga",
+        "time": "14:30",
+        "whereToWatch": ["ESPN", "Disney+"],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+      },
+      {
+        "homeTeam": "Manchester City",
+        "awayTeam": "Liverpool",
+        "competition": "Premier League",
+        "time": "18:30",
+        "whereToWatch": ["ESPN", "Star+"],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvryqy1467462651.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwtrrpvuru1545399715.png"
+      }
+    ]
+  },
+  "2025-08-17": {
+    "date": "2025-08-17",
+    "totalGames": 2,
+    "games": [
+      {
+        "homeTeam": "Santos",
+        "awayTeam": "Corinthians",
+        "competition": "Brazilian Championship",
+        "time": "20:00",
+        "whereToWatch": ["Premiere"],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/suwpxs1474826552.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vyvtxp1473538127.png"
+      },
+      {
+        "homeTeam": "Arsenal",
+        "awayTeam": "Chelsea",
+        "competition": "Premier League",
+        "time": "12:30",
+        "whereToWatch": ["ESPN", "Disney+"],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/c7qvvv1520364256.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+      }
+    ]
+  }
+}
