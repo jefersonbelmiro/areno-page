@@ -1,7 +1,7 @@
 {
-  "2025-10-31": {
-    "date": "2025-10-31",
-    "totalGames": 180,
+  "2025-11-01": {
+    "date": "2025-11-01",
+    "totalGames": 230,
     "games": [
       {
         "homeTeam": "Atlético San Luis",
@@ -28,6 +28,19 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Mexico"
+      },
+      {
+        "homeTeam": "Seattle Sounders",
+        "awayTeam": "Minnesota United",
+        "competition": "MLS (playoffs)",
+        "time": "00:45",
+        "whereToWatch": [
+          "Apple TV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/e2b4ur1585410282.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vl67t41492453433.png",
+        "homeTeamCountry": "United States",
+        "awayTeamCountry": "United States"
       },
       {
         "homeTeam": "Kashiwa Reysol",
@@ -285,6 +298,60 @@
         "awayTeamCountry": "Germany"
       },
       {
+        "homeTeam": "Costa Rica sub-17",
+        "awayTeam": "Emirados Árabes Unidos sub-17",
+        "competition": "Mundial sub-17",
+        "time": "09:30",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "África do Sul sub-17",
+        "awayTeam": "Bolívia sub-17",
+        "competition": "Mundial sub-17",
+        "time": "09:30",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4q6qfm1736571383.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Bolivia"
+      },
+      {
+        "homeTeam": "Brasil sub-17",
+        "awayTeam": "Honduras sub-17",
+        "competition": "Mundial sub-17",
+        "time": "09:30",
+        "whereToWatch": [
+          "Sportv",
+          "CazéTV",
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wuu4fp1718413719.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Honduras"
+      },
+      {
+        "homeTeam": "Costa do Marfim sub-17",
+        "awayTeam": "Suíça sub-17",
+        "competition": "Mundial sub-17",
+        "time": "09:30",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
         "homeTeam": "Munique 1860",
         "awayTeam": "Energie Cottbus",
         "competition": "Campeonato Alemão (Terceira Divisão)",
@@ -363,6 +430,45 @@
         "awayTeamCountry": "Uruguay"
       },
       {
+        "homeTeam": "Senegal sub-17",
+        "awayTeam": "Croácia sub-17",
+        "competition": "Mundial sub-17",
+        "time": "10:00",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Senegal",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Mé",
+        "awayTeam": "ico sub-17",
+        "competition": "Mundial sub-17",
+        "time": "10:00",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "PSG sub-19",
+        "awayTeam": "Bayern sub-19",
+        "competition": "UEFA Youth League",
+        "time": "10:00",
+        "whereToWatch": [
+          "UEFA.tv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvj6uh1560677525.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/z2r3eh1678017187.png",
+        "homeTeamCountry": "France",
+        "awayTeamCountry": "Germany"
+      },
+      {
         "homeTeam": "Al Taawoun",
         "awayTeam": "Al Qadsiah",
         "competition": "Campeonato Saudita",
@@ -415,6 +521,32 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/9mzq961590148192.png",
         "homeTeamCountry": "Norway",
         "awayTeamCountry": "Norway"
+      },
+      {
+        "homeTeam": "Japão sub-17",
+        "awayTeam": "Marrocos sub-17",
+        "competition": "Mundial sub-17",
+        "time": "10:30",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Haiti sub-17",
+        "awayTeam": "Egito sub-17",
+        "competition": "Mundial sub-17",
+        "time": "10:30",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Haiti",
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Udinese",
@@ -580,6 +712,19 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Liverpool sub-19",
+        "awayTeam": "Real Madrid sub-19",
+        "competition": "UEFA Youth League",
+        "time": "11:00",
+        "whereToWatch": [
+          "UEFA.tv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "England",
+        "awayTeamCountry": null
+      },
+      {
         "homeTeam": "Eastleigh",
         "awayTeam": "Walsall",
         "competition": "Copa da Inglaterra",
@@ -687,6 +832,33 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/e5q6lh1745436268.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Saudi Arabia"
+      },
+      {
+        "homeTeam": "Argentina sub-17",
+        "awayTeam": "Bélgica sub-17",
+        "competition": "Mundial sub-17",
+        "time": "11:45",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Argentina",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Alemanha sub-17",
+        "awayTeam": "Colômbia sub-17",
+        "competition": "Mundial sub-17",
+        "time": "11:45",
+        "whereToWatch": [
+          "CazéTV",
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Colombia"
       },
       {
         "homeTeam": "Al Hilal",
@@ -914,6 +1086,32 @@
         "awayTeamCountry": "Spain"
       },
       {
+        "homeTeam": "Nova Caledônia sub-17",
+        "awayTeam": "Portugal sub-17",
+        "competition": "Mundial sub-17",
+        "time": "12:15",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/flz9ht1587326573.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
+        "homeTeamCountry": "United States",
+        "awayTeamCountry": "Portugal"
+      },
+      {
+        "homeTeam": "Inglaterra sub-17",
+        "awayTeam": "Venezuela sub-17",
+        "competition": "Mundial sub-17",
+        "time": "12:15",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x167yg1690791367.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Venezuela"
+      },
+      {
         "homeTeam": "Aja",
         "awayTeam": "",
         "competition": "Campeonato Holandês",
@@ -972,6 +1170,58 @@
         "awayTeam": "Holanda sub-17 (F)",
         "competition": "Mundial Feminino sub-17 (quartas)",
         "time": "12:30",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Catar sub-17",
+        "awayTeam": "Itália sub-17",
+        "competition": "Mundial sub-17",
+        "time": "12:45",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Tunísia sub-17",
+        "awayTeam": "Fiji sub-17",
+        "competition": "Mundial sub-17",
+        "time": "12:45",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsrxul1600867989.png",
+        "homeTeamCountry": "Tunisia",
+        "awayTeamCountry": "Fiji"
+      },
+      {
+        "homeTeam": "Indonésia sub-17",
+        "awayTeam": "Zâmbia sub-17",
+        "competition": "Mundial sub-17",
+        "time": "12:45",
+        "whereToWatch": [
+          "FIFA+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hkg0st1656933330.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvh0al1553349957.png",
+        "homeTeamCountry": "Indonesia",
+        "awayTeamCountry": "Zambia"
+      },
+      {
+        "homeTeam": "Coreia do Norte sub-17",
+        "awayTeam": "El Salvador sub-17",
+        "competition": "Mundial sub-17",
+        "time": "12:45",
         "whereToWatch": [
           "FIFA+"
         ],
@@ -1070,6 +1320,20 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vx4q8p1602448530.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Norway"
+      },
+      {
+        "homeTeam": "Al Sadd",
+        "awayTeam": "Al Ahli",
+        "competition": "AFC Champions League Elite",
+        "time": "13:00",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1b88p41598980839.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/k21gkm1617893374.png",
+        "homeTeamCountry": "Qatar",
+        "awayTeamCountry": "United Arab Emirates"
       },
       {
         "homeTeam": "Monza",
@@ -1216,6 +1480,19 @@
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png",
+        "homeTeamCountry": "Turkey",
+        "awayTeamCountry": "Turkey"
+      },
+      {
+        "homeTeam": "Alanyaspor",
+        "awayTeam": "Gaziantep",
+        "competition": "Campeonato Turco",
+        "time": "14:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/9fr3071601667898.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/00s02e1523093962.png",
         "homeTeamCountry": "Turkey",
         "awayTeamCountry": "Turkey"
       },
@@ -1412,6 +1689,47 @@
         "awayTeamCountry": "Spain"
       },
       {
+        "homeTeam": "Sassuolo",
+        "awayTeam": "Genoa",
+        "competition": "Campeonato Italiano",
+        "time": "14:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": "Italy"
+      },
+      {
+        "homeTeam": "Slavia Praga",
+        "awayTeam": "Arsenal",
+        "competition": "UEFA Champions League",
+        "time": "14:45",
+        "whereToWatch": [
+          "TNT",
+          "HBO Max"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "England"
+      },
+      {
+        "homeTeam": "Napoli",
+        "awayTeam": "Eintracht Frankfurt",
+        "competition": "UEFA Champions League",
+        "time": "14:45",
+        "whereToWatch": [
+          "Space",
+          "HBO Max"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": "Germany"
+      },
+      {
         "homeTeam": "Viktoria Colônia",
         "awayTeam": "Ingolstadt",
         "competition": "Campeonato Alemão (Terceira Divisão)",
@@ -1477,6 +1795,34 @@
         "awayTeamLogo": null,
         "homeTeamCountry": "Norway",
         "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Al Gharafa",
+        "awayTeam": "Al Hilal",
+        "competition": "AFC Champions League Elite",
+        "time": "15:15",
+        "whereToWatch": [
+          "ESPN 3",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Al Ittihad",
+        "awayTeam": "Sharjah",
+        "competition": "AFC Champions League Elite",
+        "time": "15:15",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/e5q6lh1745436268.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/kccfg11753982654.png",
+        "homeTeamCountry": "Saudi Arabia",
+        "awayTeamCountry": "United Arab Emirates"
       },
       {
         "homeTeam": "Palermo",
@@ -1549,7 +1895,9 @@
         "competition": "Brasileirão",
         "time": "16:00",
         "whereToWatch": [
-          "Premiere"
+          "Premiere",
+          "globoplay",
+          "Cartola"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
@@ -1562,7 +1910,9 @@
         "competition": "Brasileirão",
         "time": "16:00",
         "whereToWatch": [
-          "Premiere"
+          "Premiere",
+          "globoplay",
+          "Cartola"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
@@ -1618,6 +1968,7 @@
         "competition": "Brasileirão",
         "time": "16:00",
         "whereToWatch": [
+          "Globo",
           "ge tv",
           "Premiere"
         ],
@@ -1706,6 +2057,19 @@
         "awayTeamLogo": null,
         "homeTeamCountry": null,
         "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Jong PSV",
+        "awayTeam": "Willem II",
+        "competition": "Campeonato Holandês (Segunda Divisão)",
+        "time": "16:00",
+        "whereToWatch": [
+          "Canal CaloSalvador"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/awhmfi1579211462.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png",
+        "homeTeamCountry": "The Netherlands",
+        "awayTeamCountry": "The Netherlands"
       },
       {
         "homeTeam": "Augsburg",
@@ -1816,6 +2180,32 @@
         "awayTeamCountry": "Uruguay"
       },
       {
+        "homeTeam": "Valladolid",
+        "awayTeam": "Granada",
+        "competition": "Campeonato Espanhol (Segunda Divisão)",
+        "time": "16:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Spain"
+      },
+      {
+        "homeTeam": "Tamworth",
+        "awayTeam": "Leyton Orient",
+        "competition": "Copa da Inglaterra",
+        "time": "16:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7j70n31603398291.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/g4d9bi1688678797.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "England"
+      },
+      {
         "homeTeam": "Standard Liège",
         "awayTeam": "Charleroi",
         "competition": "Campeonato Belga",
@@ -1881,6 +2271,33 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png",
         "homeTeamCountry": "France",
         "awayTeamCountry": "France"
+      },
+      {
+        "homeTeam": "Lazio",
+        "awayTeam": "Cagliari",
+        "competition": "Campeonato Italiano",
+        "time": "16:45",
+        "whereToWatch": [
+          "ESPN 2",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": "Italy"
+      },
+      {
+        "homeTeam": "Defensa y Justicia",
+        "awayTeam": "Huracán",
+        "competition": "Campeonato Argentino",
+        "time": "16:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
+        "homeTeamCountry": "Argentina",
+        "awayTeamCountry": "Argentina"
       },
       {
         "homeTeam": "Getafe",
@@ -1978,6 +2395,141 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Sunderland",
+        "awayTeam": "Everton",
+        "competition": "Campeonato Inglês",
+        "time": "17:00",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "England"
+      },
+      {
+        "homeTeam": "Oviedo",
+        "awayTeam": "Osasuna",
+        "competition": "Campeonato Espanhol",
+        "time": "17:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Spain"
+      },
+      {
+        "homeTeam": "Liverpool",
+        "awayTeam": "Real Madrid",
+        "competition": "UEFA Champions League",
+        "time": "17:00",
+        "whereToWatch": [
+          "SBT",
+          "TNT",
+          "HBO Max"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "Spain"
+      },
+      {
+        "homeTeam": "PSG",
+        "awayTeam": "Bayern",
+        "competition": "UEFA Champions League",
+        "time": "17:00",
+        "whereToWatch": [
+          "Space",
+          "HBO Max"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvj6uh1560677525.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/z2r3eh1678017187.png",
+        "homeTeamCountry": "France",
+        "awayTeamCountry": "Germany"
+      },
+      {
+        "homeTeam": "Juventus",
+        "awayTeam": "Sporting",
+        "competition": "UEFA Champions League",
+        "time": "17:00",
+        "whereToWatch": [
+          "HBO Max"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Atlético de Madrid",
+        "awayTeam": "Union Saint-Gilloise",
+        "competition": "UEFA Champions League",
+        "time": "17:00",
+        "whereToWatch": [
+          "HBO Max"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ljszp41654601742.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Belgium"
+      },
+      {
+        "homeTeam": "Tottenham",
+        "awayTeam": "Copenhague",
+        "competition": "UEFA Champions League",
+        "time": "17:00",
+        "whereToWatch": [
+          "HBO Max"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Olympiacos",
+        "awayTeam": "PSG",
+        "competition": "UEFA Champions League",
+        "time": "17:00",
+        "whereToWatch": [
+          "HBO Max"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xckasq1721291508.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvj6uh1560677525.png",
+        "homeTeamCountry": "Greece",
+        "awayTeamCountry": "France"
+      },
+      {
+        "homeTeam": "Bodo/Glimt",
+        "awayTeam": "Monaco",
+        "competition": "UEFA Champions League",
+        "time": "17:00",
+        "whereToWatch": [
+          "HBO Max"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
+        "homeTeamCountry": "Norway",
+        "awayTeamCountry": "Monaco"
+      },
+      {
+        "homeTeam": "Coventry",
+        "awayTeam": "Sheffield United",
+        "competition": "Campeonato Inglês (Segunda Divisão)",
+        "time": "17:00",
+        "whereToWatch": [
+          "Xsports",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xpvvvx1424025362.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "England"
+      },
+      {
         "homeTeam": "Sporting",
         "awayTeam": "Alverca",
         "competition": "Campeonato Português",
@@ -2020,13 +2572,29 @@
         "awayTeamCountry": "Portugal"
       },
       {
+        "homeTeam": "Gil Vicente",
+        "awayTeam": "Santa Clara",
+        "competition": "Campeonato Português",
+        "time": "17:45",
+        "whereToWatch": [
+          "ESPN Brasil (YouTube)",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7337a61724860742.png",
+        "homeTeamCountry": "Portugal",
+        "awayTeamCountry": "Portugal"
+      },
+      {
         "homeTeam": "Mirassol",
         "awayTeam": "Botafogo",
         "competition": "Brasileirão",
         "time": "18:00",
         "whereToWatch": [
           "Sportv",
-          "Premiere"
+          "Premiere",
+          "globoplay",
+          "Cartola"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tfth1h1617198957.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
@@ -2204,6 +2772,73 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Plaza Colonia",
+        "awayTeam": "Cerro Largo",
+        "competition": "Campeonato Uruguaio",
+        "time": "19:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/s0gfrz1517658228.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/f2lnua1580234598.png",
+        "homeTeamCountry": "Uruguay",
+        "awayTeamCountry": "Uruguay"
+      },
+      {
+        "homeTeam": "América-MG",
+        "awayTeam": "Novorizontino",
+        "competition": "Brasileirão Série B",
+        "time": "19:00",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Volta Redonda",
+        "awayTeam": "Botafogo-SP",
+        "competition": "Brasileirão Série B",
+        "time": "19:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/phc5fs1736379773.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/kg3xsd1701366652.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Central Córdoba",
+        "awayTeam": "Racing",
+        "competition": "Campeonato Argentino",
+        "time": "19:00",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7292te1741600464.png",
+        "homeTeamCountry": "Argentina",
+        "awayTeamCountry": "Belgium"
+      },
+      {
+        "homeTeam": "Ferroviária (F)",
+        "awayTeam": "Bahia (F)",
+        "competition": "Copa do Brasil Feminina (semifinal)",
+        "time": "19:00",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r7fn3h1625417990.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
         "homeTeam": "Montevideo Wanderers",
         "awayTeam": "Boston River",
         "competition": "Campeonato Uruguaio",
@@ -2339,6 +2974,32 @@
         "awayTeamCountry": "Argentina"
       },
       {
+        "homeTeam": "Belgrano",
+        "awayTeam": "Tigre",
+        "competition": "Campeonato Argentino",
+        "time": "21:15",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/frjldm1644510699.png",
+        "homeTeamCountry": "Argentina",
+        "awayTeamCountry": "Argentina"
+      },
+      {
+        "homeTeam": "São Paulo (F)",
+        "awayTeam": "Palmeiras (F)",
+        "competition": "Copa do Brasil Feminina (semifinal)",
+        "time": "21:30",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Brazil"
+      },
+      {
         "homeTeam": "Ferroviária",
         "awayTeam": "Criciúma",
         "competition": "Brasileirão Série B",
@@ -2407,13 +3068,32 @@
         "awayTeamCountry": "United States"
       },
       {
-        "homeTeam": "Praia Clube",
-        "awayTeam": "Sesc-Flamengo",
-        "competition": "Unknown Competition",
-        "time": "21:00",
+        "homeTeam": "Athletic Club",
+        "awayTeam": "Avaí",
+        "competition": "Brazilian Championship",
+        "time": "18:30",
         "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uquyyw1430159562.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Vitória-PE",
+        "awayTeam": "América-PE",
+        "competition": "Unknown Competition",
+        "time": "15:00",
+        "whereToWatch": [
+          "premiere",
           "sportv",
-          "globoplay"
+          "sportv",
+          "sportv",
+          "sportv",
+          "sportv",
+          "sportv",
+          "premiere"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": null,
@@ -2422,9 +3102,39 @@
       }
     ]
   },
-  "2025-11-01": {
-    "date": "2025-11-01",
-    "totalGames": 0,
-    "games": []
+  "2025-11-02": {
+    "date": "2025-11-02",
+    "totalGames": 2,
+    "games": [
+      {
+        "homeTeam": "Bragantino",
+        "awayTeam": "Bahia",
+        "competition": "Brazilian Championship",
+        "time": "16:00",
+        "whereToWatch": [
+          "Globo",
+          "globoplay",
+          "Cartola",
+          "Ge TV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Celta",
+        "awayTeam": "Levante",
+        "competition": "La Liga",
+        "time": "10:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Spain"
+      }
+    ]
   }
 }
