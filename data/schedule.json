@@ -1,7 +1,7 @@
 {
-  "2025-11-15": {
-    "date": "2025-11-15",
-    "totalGames": 116,
+  "2025-11-16": {
+    "date": "2025-11-16",
+    "totalGames": 117,
     "games": [
       {
         "homeTeam": "Alhama (F)",
@@ -223,7 +223,8 @@
         "competition": "Eliminatórias Europeias",
         "time": "11:00",
         "whereToWatch": [
-          "Sportv"
+          "Sportv",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/8gcur81705941637.png",
@@ -435,8 +436,7 @@
         "whereToWatch": [
           "Globo",
           "ge tv",
-          "Sportv",
-          "globoplay"
+          "Sportv"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png",
@@ -586,7 +586,8 @@
         "competition": "Eliminatórias Europeias",
         "time": "14:00",
         "whereToWatch": [
-          "Sportv"
+          "Sportv",
+          "globoplay"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": null,
@@ -1269,9 +1270,7 @@
         "competition": "Brasileirão",
         "time": "18:30",
         "whereToWatch": [
-          "Prime Video",
-          "premiere",
-          "sportv"
+          "Prime Video"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
@@ -1419,8 +1418,7 @@
         "time": "21:00",
         "whereToWatch": [
           "Sportv",
-          "Premiere",
-          "globoplay"
+          "Premiere"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
@@ -1547,51 +1545,6 @@
         "awayTeamCountry": "Suriname"
       },
       {
-        "homeTeam": "Athletic Club",
-        "awayTeam": "Coritiba",
-        "competition": "Brazilian Championship",
-        "time": "16:30",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
-      }
-    ]
-  },
-  "2025-11-16": {
-    "date": "2025-11-16",
-    "totalGames": 3,
-    "games": [
-      {
-        "homeTeam": "Cruzeiro",
-        "awayTeam": "América-MG",
-        "competition": "Unknown Competition",
-        "time": "15:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Atlético-MG",
-        "awayTeam": "Bragantino",
-        "competition": "Brazilian Championship",
-        "time": "19:00",
-        "whereToWatch": [
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
         "homeTeam": "Figueirense",
         "awayTeam": "Joinville",
         "competition": "Cup",
@@ -1610,7 +1563,25 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wpxl1u1733807689.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Atlético-MG",
+        "awayTeam": "Bragantino",
+        "competition": "Brazilian Championship",
+        "time": "19:00",
+        "whereToWatch": [
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       }
     ]
+  },
+  "2025-11-17": {
+    "date": "2025-11-17",
+    "totalGames": 0,
+    "games": []
   }
 }
