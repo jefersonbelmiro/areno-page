@@ -1,7 +1,7 @@
 {
-  "2025-12-13": {
-    "date": "2025-12-13",
-    "totalGames": 114,
+  "2025-12-14": {
+    "date": "2025-12-14",
+    "totalGames": 115,
     "games": [
       {
         "homeTeam": "Granada (F)",
@@ -903,8 +903,7 @@
           "Globo",
           "ge tv",
           "Sportv",
-          "CazéTV",
-          "globoplay"
+          "CazéTV"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/8liy611607352549.png",
@@ -1478,7 +1477,8 @@
           "ge tv",
           "Sportv",
           "Premiere",
-          "Prime Video"
+          "Prime Video",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
@@ -1493,7 +1493,8 @@
         "whereToWatch": [
           "Sportv",
           "Premiere",
-          "Prime Video"
+          "Prime Video",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
@@ -1528,51 +1529,21 @@
         "awayTeamCountry": "Mexico"
       },
       {
-        "homeTeam": "Praia Clube",
-        "awayTeam": "Scandicci",
-        "competition": "Unknown Competition",
-        "time": "13:00",
+        "homeTeam": "Palmeiras",
+        "awayTeam": "Corinthians",
+        "competition": "Women's Football",
+        "time": "10:00",
         "whereToWatch": [
-          "premiere",
           "sportv",
-          "sportv",
-          "sportv",
-          "sportv",
-          "sportv",
-          "sportv",
-          "premiere"
+          "Globo",
+          "globoplay",
+          "Ge TV"
         ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tl947b1679344128.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Italy"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       },
-      {
-        "homeTeam": "Osasco",
-        "awayTeam": "Conegliano",
-        "competition": "Unknown Competition",
-        "time": "16:30",
-        "whereToWatch": [
-          "premiere",
-          "sportv",
-          "sportv",
-          "sportv",
-          "sportv",
-          "sportv",
-          "sportv",
-          "premiere"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nydey41757302193.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Italy"
-      }
-    ]
-  },
-  "2025-12-14": {
-    "date": "2025-12-14",
-    "totalGames": 3,
-    "games": [
       {
         "homeTeam": "Real Oviedo",
         "awayTeam": "Sevilla",
@@ -1598,21 +1569,12 @@
         "awayTeamLogo": null,
         "homeTeamCountry": "Spain",
         "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Palmeiras",
-        "awayTeam": "Corinthians",
-        "competition": "Women's Football",
-        "time": "10:00",
-        "whereToWatch": [
-          "sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
       }
     ]
+  },
+  "2025-12-15": {
+    "date": "2025-12-15",
+    "totalGames": 0,
+    "games": []
   }
 }
