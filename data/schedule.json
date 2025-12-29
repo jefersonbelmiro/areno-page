@@ -1,50 +1,8 @@
 {
-  "2025-12-28": {
-    "date": "2025-12-28",
-    "totalGames": 29,
+  "2025-12-29": {
+    "date": "2025-12-29",
+    "totalGames": 23,
     "games": [
-      {
-        "homeTeam": "Milan",
-        "awayTeam": "Hellas Verona",
-        "competition": "Campeonato Italiano",
-        "time": "08:30",
-        "whereToWatch": [
-          "Xsports",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
-        "homeTeamCountry": "Italy",
-        "awayTeamCountry": "Italy"
-      },
-      {
-        "homeTeam": "Sunderland",
-        "awayTeam": "Leeds United",
-        "competition": "Campeonato Inglês",
-        "time": "11:00",
-        "whereToWatch": [
-          "Xsports",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
-        "homeTeamCountry": "England",
-        "awayTeamCountry": "England"
-      },
-      {
-        "homeTeam": "Cremonese",
-        "awayTeam": "Napoli",
-        "competition": "Campeonato Italiano",
-        "time": "11:00",
-        "whereToWatch": [
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
-        "homeTeamCountry": "Italy",
-        "awayTeamCountry": "Italy"
-      },
       {
         "homeTeam": "Al Khaleej",
         "awayTeam": "Al Fateh",
@@ -57,6 +15,19 @@
         "awayTeamLogo": null,
         "homeTeamCountry": null,
         "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "NEOM",
+        "awayTeam": "Al Ittihad",
+        "competition": "Campeonato Saudita",
+        "time": "12:25",
+        "whereToWatch": [
+          "Canal GOAT"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4luwe11737685220.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/e5q6lh1745436268.png",
+        "homeTeamCountry": "Saudi Arabia",
+        "awayTeamCountry": "Saudi Arabia"
       },
       {
         "homeTeam": "Al Ahli",
@@ -105,48 +76,21 @@
         "awayTeamCountry": "Nigeria"
       },
       {
-        "homeTeam": "Crystal Palace",
-        "awayTeam": "Tottenham",
-        "competition": "Campeonato Inglês",
-        "time": "13:30",
-        "whereToWatch": [
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "England",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Bologna",
-        "awayTeam": "Sassuolo",
-        "competition": "Campeonato Italiano",
-        "time": "14:00",
-        "whereToWatch": [
-          "Xsports",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
-        "homeTeamCountry": "Italy",
-        "awayTeamCountry": "Italy"
-      },
-      {
-        "homeTeam": "Argélia",
-        "awayTeam": "Burkina Faso",
+        "homeTeam": "Guiné Equatorial",
+        "awayTeam": "Argélia",
         "competition": "Copa Africana de Nações",
-        "time": "14:30",
+        "time": "13:00",
         "whereToWatch": [
-          "Band.com.br",
+          "Band",
           "BandSports",
-          "Esporte na Band (YouTube)",
-          "BandPlay"
+          "BandPlay",
+          "Band.com.br",
+          "Esporte na Band (YouTube)"
         ],
         "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/y38bkz1742102697.png",
+        "awayTeamLogo": null,
         "homeTeamCountry": null,
-        "awayTeamCountry": "Burkina Faso"
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Al Taawoun",
@@ -175,18 +119,17 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Braga",
-        "awayTeam": "Benfica",
-        "competition": "Campeonato Português",
-        "time": "15:00",
+        "homeTeam": "Al Khlood",
+        "awayTeam": "Al Hilal",
+        "competition": "Campeonato Saudita",
+        "time": "14:30",
         "whereToWatch": [
-          "ESPN 3",
-          "Disney+"
+          "Canal GOAT"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png",
-        "homeTeamCountry": "Portugal",
-        "awayTeamCountry": "Portugal"
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Coventry",
@@ -232,6 +175,22 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png",
         "homeTeamCountry": "Benin",
         "awayTeamCountry": "Senegal"
+      },
+      {
+        "homeTeam": "Moçambique",
+        "awayTeam": "Camarões",
+        "competition": "Copa Africana de Nações",
+        "time": "16:00",
+        "whereToWatch": [
+          "BandSports",
+          "BandPlay",
+          "Band.com.br",
+          "Esporte na Band (YouTube)"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Burnley",
@@ -289,19 +248,6 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Atalanta",
-        "awayTeam": "Inter de Milão",
-        "competition": "Campeonato Italiano",
-        "time": "16:45",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Italy",
-        "awayTeamCountry": null
-      },
-      {
         "homeTeam": "Roma",
         "awayTeam": "Genoa",
         "competition": "Campeonato Italiano",
@@ -314,22 +260,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
         "homeTeamCountry": "Italy",
         "awayTeamCountry": "Italy"
-      },
-      {
-        "homeTeam": "Costa do Marfim",
-        "awayTeam": "Camarões",
-        "competition": "Copa Africana de Nações",
-        "time": "17:00",
-        "whereToWatch": [
-          "Band.com.br",
-          "BandSports",
-          "Esporte na Band (YouTube)",
-          "BandPlay"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": null,
-        "homeTeamCountry": null,
-        "awayTeamCountry": null
       },
       {
         "homeTeam": "Motherwell",
@@ -397,26 +327,7 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/saimjk1656789616.png",
         "homeTeamCountry": "England",
         "awayTeamCountry": "England"
-      },
-      {
-        "homeTeam": "Sporting",
-        "awayTeam": "Rio Ave",
-        "competition": "Campeonato Português",
-        "time": "17:30",
-        "whereToWatch": [
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ngbklq1628851239.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Portugal"
       }
     ]
-  },
-  "2025-12-29": {
-    "date": "2025-12-29",
-    "totalGames": 0,
-    "games": []
   }
 }
