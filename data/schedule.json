@@ -1,7 +1,7 @@
 {
-  "2026-01-05": {
-    "date": "2026-01-05",
-    "totalGames": 77,
+  "2026-01-06": {
+    "date": "2026-01-06",
+    "totalGames": 89,
     "games": [
       {
         "homeTeam": "América-SP",
@@ -35,7 +35,8 @@
         "competition": "Copinha",
         "time": "11:00",
         "whereToWatch": [
-          "Xsports"
+          "Xsports",
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ekzl671560365911.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
@@ -54,6 +55,19 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
         "homeTeamCountry": "Italy",
         "awayTeamCountry": "Italy"
+      },
+      {
+        "homeTeam": "RB Salzburg",
+        "awayTeam": "Bayern",
+        "competition": "Amistoso",
+        "time": "11:00",
+        "whereToWatch": [
+          "SportyNet (YouTube)"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/z2r3eh1678017187.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Germany"
       },
       {
         "homeTeam": "Ibrachina",
@@ -91,36 +105,6 @@
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/206mtr1767437003.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Egito",
-        "awayTeam": "Benin",
-        "competition": "Copa Africana de Nações (oitavas)",
-        "time": "13:00",
-        "whereToWatch": [
-          "Band",
-          "BandPlay",
-          "Band.com.br",
-          "BandSports",
-          "Esporte na Band (YouTube)"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/an12u91593279487.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Benin"
-      },
-      {
-        "homeTeam": "Meia Noite",
-        "awayTeam": "Ponte Preta",
-        "competition": "Copinha",
-        "time": "13:00",
-        "whereToWatch": [
-          "Paulistão (YouTube)"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wbss4d1644929547.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
       },
@@ -325,6 +309,34 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Bologna",
+        "awayTeam": "Atalanta",
+        "competition": "Campeonato Italiano",
+        "time": "14:30",
+        "whereToWatch": [
+          "ESPN Brasil (YouTube)",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": "Italy"
+      },
+      {
+        "homeTeam": "Napoli",
+        "awayTeam": "Hellas Verona",
+        "competition": "Campeonato Italiano",
+        "time": "14:30",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": "Italy"
+      },
+      {
         "homeTeam": "Granada",
         "awayTeam": "Rayo Vallecano",
         "competition": "Copa do Rei",
@@ -376,19 +388,6 @@
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Real",
-        "awayTeam": "Coritiba",
-        "competition": "Copinha",
-        "time": "15:15",
-        "whereToWatch": [
-          "Paulistão (YouTube)"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
       },
@@ -536,35 +535,6 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Galvez",
-        "awayTeam": "Grêmio",
-        "competition": "Copinha",
-        "time": "16:00",
-        "whereToWatch": [
-          "Xsports (TV e YouTube)"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/e2y8mj1753338368.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Nigéria",
-        "awayTeam": "Moçambique",
-        "competition": "Copa Africana de Nações (oitavas)",
-        "time": "16:00",
-        "whereToWatch": [
-          "BandPlay",
-          "Band.com.br",
-          "BandSports",
-          "Esporte na Band (YouTube)"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/qruyxr1455466056.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Nigeria",
-        "awayTeamCountry": null
-      },
-      {
         "homeTeam": "Costa do Marfim",
         "awayTeam": "Burkina Faso",
         "competition": "Copa Africana de Nações (oitavas)",
@@ -581,6 +551,19 @@
         "awayTeamCountry": "Burkina Faso"
       },
       {
+        "homeTeam": "Barcelona",
+        "awayTeam": "Athletic Bilbao",
+        "competition": "Supercopa da Espanha (semifinal)",
+        "time": "16:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
+        "homeTeamCountry": "Spain",
+        "awayTeamCountry": "Spain"
+      },
+      {
         "homeTeam": "Qui",
         "awayTeam": "adá",
         "competition": "Copinha",
@@ -592,6 +575,87 @@
         "awayTeamLogo": null,
         "homeTeamCountry": null,
         "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Aston Villa",
+        "competition": "Campeonato Inglês",
+        "time": "16:30",
+        "whereToWatch": [
+          "ESPN Brasil (YouTube)",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "England"
+      },
+      {
+        "homeTeam": "Manchester City",
+        "awayTeam": "Brighton",
+        "competition": "Campeonato Inglês",
+        "time": "16:30",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "England",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Fulham",
+        "awayTeam": "Chelsea",
+        "competition": "Campeonato Inglês",
+        "time": "16:30",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "England"
+      },
+      {
+        "homeTeam": "Bournemouth",
+        "awayTeam": "Tottenham",
+        "competition": "Campeonato Inglês",
+        "time": "16:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "England",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Everton",
+        "awayTeam": "Wolverhampton",
+        "competition": "Campeonato Inglês",
+        "time": "16:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "England",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Brentford",
+        "awayTeam": "Sunderland",
+        "competition": "Campeonato Inglês",
+        "time": "16:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "England"
       },
       {
         "homeTeam": "Sassuolo",
@@ -608,18 +672,58 @@
         "awayTeamCountry": "Italy"
       },
       {
-        "homeTeam": "Leicester",
-        "awayTeam": "West Bromwich",
-        "competition": "Campeonato Inglês (Segunda Divisão)",
-        "time": "17:00",
+        "homeTeam": "Parma",
+        "awayTeam": "Inter de Milão",
+        "competition": "Campeonato Italiano",
+        "time": "16:45",
         "whereToWatch": [
-          "ESPN",
+          "CazéTV",
           "Disney+"
         ],
-        "homeTeamLogo": null,
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
         "awayTeamLogo": null,
-        "homeTeamCountry": null,
+        "homeTeamCountry": "Italy",
         "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Lazio",
+        "awayTeam": "Fiorentina",
+        "competition": "Campeonato Italiano",
+        "time": "16:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": "Italy"
+      },
+      {
+        "homeTeam": "Torino",
+        "awayTeam": "Udinese",
+        "competition": "Campeonato Italiano",
+        "time": "16:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": "Italy"
+      },
+      {
+        "homeTeam": "Benfica",
+        "awayTeam": "Braga",
+        "competition": "Taça da Liga de Portugal (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "ESPN 2",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png",
+        "homeTeamCountry": "Portugal",
+        "awayTeamCountry": "Portugal"
       },
       {
         "homeTeam": "West Ham",
@@ -641,7 +745,8 @@
         "competition": "Campeonato Escocês",
         "time": "17:00",
         "whereToWatch": [
-          "Canal GOAT"
+          "Canal GOAT",
+          "OneFootball"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ti24j61614290048.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvwys1447597299.png",
@@ -661,19 +766,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/af52z61628855707.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Portugal"
-      },
-      {
-        "homeTeam": "Remo",
-        "awayTeam": "Batalhão",
-        "competition": "Copinha",
-        "time": "17:15",
-        "whereToWatch": [
-          "Ulisses TV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/cn0gr81754211709.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
       },
       {
         "homeTeam": "",
@@ -700,6 +792,33 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/07wd4q1754136987.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Burnley",
+        "awayTeam": "Manchester United",
+        "competition": "Campeonato Inglês",
+        "time": "17:15",
+        "whereToWatch": [
+          "Xsports",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "England"
+      },
+      {
+        "homeTeam": "Newcastle",
+        "awayTeam": "Leeds",
+        "competition": "Campeonato Inglês",
+        "time": "17:15",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/aes2o51646347790.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Australia",
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Grêmio São-Carlense",
@@ -741,19 +860,6 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Votuporanguense",
-        "awayTeam": "Falcon",
-        "competition": "Copinha",
-        "time": "18:15",
-        "whereToWatch": [
-          "Paulistão (YouTube)"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/mznfgu1733852405.png",
-        "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/9zafim1765299647.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
         "homeTeam": "Francana",
         "awayTeam": "Barra",
         "competition": "Copinha",
@@ -765,19 +871,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bu1jtg1713439315.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Mirassol",
-        "awayTeam": "Linense",
-        "competition": "Copinha",
-        "time": "18:30",
-        "whereToWatch": [
-          "Paulistão (YouTube)"
-        ],
-        "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/qjprzq1656017016.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Spain"
       },
       {
         "homeTeam": "Araçatuba",
@@ -819,17 +912,84 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Sfera",
-        "awayTeam": "Brasiliense",
-        "competition": "Copinha",
-        "time": "19:15",
+        "homeTeam": "Chapecoense",
+        "awayTeam": "Brusque",
+        "competition": "Campeonato Catarinense",
+        "time": "19:00",
         "whereToWatch": [
-          "Paulistão (YouTube)"
+          "SportyNet (YouTube)"
         ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/8fd41g1593454003.png",
-        "homeTeamCountry": null,
+        "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+        "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/o7p43b1766507803.png",
+        "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Maracanã",
+        "awayTeam": "Ferroviário",
+        "competition": "Campeonato Cearense",
+        "time": "19:00",
+        "whereToWatch": [
+          "TV Ceará",
+          "TVC",
+          "FCFTV (YouTube)"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zxxyv51713439330.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/qka9471644930616.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Marcílio Dias",
+        "awayTeam": "Criciúma",
+        "competition": "Campeonato Catarinense",
+        "time": "19:00",
+        "whereToWatch": [
+          "SportyNet (YouTube)"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uvjyru1625419323.png",
+        "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Londrina",
+        "awayTeam": "Operário-PR",
+        "competition": "Campeonato Paranaense",
+        "time": "19:00",
+        "whereToWatch": [
+          "Canal GOAT"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Tirol",
+        "awayTeam": "Floresta",
+        "competition": "Campeonato Cearense",
+        "time": "19:00",
+        "whereToWatch": [
+          "FCFTV (YouTube)"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wn0i2k1754113916.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ch7n01617198950.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Horizonte",
+        "awayTeam": "Qui",
+        "competition": "Campeonato Cearense",
+        "time": "19:00",
+        "whereToWatch": [
+          "FCFTV (YouTube)"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ob7g8l1733804852.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Grêmio Prudente",
@@ -854,19 +1014,6 @@
         ],
         "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/6xlvwq1764126850.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j58nnm1733799372.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Palmeiras",
-        "awayTeam": "Monte Roraima",
-        "competition": "Copinha",
-        "time": "19:30",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ljt3ms1754152850.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       },
@@ -910,6 +1057,19 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Cianorte",
+        "awayTeam": "Maringá",
+        "competition": "Campeonato Paranaense",
+        "time": "20:00",
+        "whereToWatch": [
+          "Canal GOAT"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/410zld1714066552.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/u8cdlj1677056366.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
         "homeTeam": "Atlético-PI",
         "awayTeam": "América-MG",
         "competition": "Copinha",
@@ -936,14 +1096,14 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Forte",
-        "awayTeam": "Sport",
-        "competition": "Copinha",
-        "time": "20:45",
+        "homeTeam": "Coritiba",
+        "awayTeam": "Foz do Iguaçu",
+        "competition": "Campeonato Paranaense",
+        "time": "20:30",
         "whereToWatch": [
-          "Xsports (TV e YouTube)"
+          "Canal GOAT"
         ],
-        "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/1irf1f1767219678.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
         "awayTeamLogo": null,
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": null
@@ -988,19 +1148,6 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Fluminense",
-        "awayTeam": "Água Santa",
-        "competition": "Copinha",
-        "time": "21:30",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hzg8cj1713439308.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
         "homeTeam": "Carajás",
         "awayTeam": "Ceará",
         "competition": "Copinha",
@@ -1025,11 +1172,25 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Camboriú",
+        "awayTeam": "Santa Catarina",
+        "competition": "Unknown Competition",
+        "time": "20:00",
+        "whereToWatch": [
+          "sportv",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/jj653v1677056354.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/mlewkk1754894451.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       }
     ]
   },
-  "2026-01-06": {
-    "date": "2026-01-06",
+  "2026-01-07": {
+    "date": "2026-01-07",
     "totalGames": 0,
     "games": []
   }
