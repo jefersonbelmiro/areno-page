@@ -1,7 +1,7 @@
 {
-  "2026-03-23": {
-    "date": "2026-03-23",
-    "totalGames": 9,
+  "2026-03-24": {
+    "date": "2026-03-24",
+    "totalGames": 5,
     "games": [
       {
         "homeTeam": "Wolfsburg (F)",
@@ -31,19 +31,6 @@
         "awayTeamCountry": "England"
       },
       {
-        "homeTeam": "Estudiantes",
-        "awayTeam": "Central Córdoba",
-        "competition": "Campeonato Argentino",
-        "time": "19:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/linsx31718390472.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
-        "homeTeamCountry": "Spain",
-        "awayTeamCountry": "Argentina"
-      },
-      {
         "homeTeam": "Ca",
         "awayTeam": "ias",
         "competition": "Copa Sul-Sudeste",
@@ -70,32 +57,6 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Fluminense (F)",
-        "awayTeam": "São Paulo (F)",
-        "competition": "Campeonato Brasileiro Feminino",
-        "time": "20:00",
-        "whereToWatch": [
-          "Sportv"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Corinthians (F)",
-        "awayTeam": "América-MG (F)",
-        "competition": "Campeonato Brasileiro Feminino",
-        "time": "21:00",
-        "whereToWatch": [
-          "TV Brasil"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": null
-      },
-      {
         "homeTeam": "Cianorte",
         "awayTeam": "Volta Redonda",
         "competition": "Copa Sul-Sudeste",
@@ -107,26 +68,7 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/phc5fs1736379773.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "São Paulo",
-        "awayTeam": "Fluminense",
-        "competition": "Women's Football",
-        "time": "20:00",
-        "whereToWatch": [
-          "sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
       }
     ]
-  },
-  "2026-03-24": {
-    "date": "2026-03-24",
-    "totalGames": 0,
-    "games": []
   }
 }
