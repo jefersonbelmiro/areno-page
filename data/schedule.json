@@ -1,41 +1,272 @@
 {
-  "2026-03-24": {
-    "date": "2026-03-24",
-    "totalGames": 5,
+  "2026-03-25": {
+    "date": "2026-03-25",
+    "totalGames": 28,
     "games": [
       {
-        "homeTeam": "Wolfsburg (F)",
-        "awayTeam": "Lyon (F)",
-        "competition": "Champions League Feminina",
-        "time": "14:45",
+        "homeTeam": "Nova Caledônia",
+        "awayTeam": "Jamaica",
+        "competition": "Repescagem Mundial - Copa 2026",
+        "time": "00:00",
+        "whereToWatch": [
+          "Sportv e CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/flz9ht1587326573.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/v6mk4r1594321722.png",
+        "homeTeamCountry": "United States",
+        "awayTeamCountry": "Jamaica"
+      },
+      {
+        "homeTeam": "Turquia",
+        "awayTeam": "Romênia",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "14:00",
+        "whereToWatch": [
+          "Sportv 2"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Gibraltar",
+        "awayTeam": "Letônia",
+        "competition": "Liga das Nações",
+        "time": "14:00",
+        "whereToWatch": [
+          "Sportv 3"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l5eevk1655237355.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Gibraltar",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Malta",
+        "awayTeam": "Lu",
+        "competition": "Liga das Nações",
+        "time": "14:00",
         "whereToWatch": [
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/07kp421599680274.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png",
-        "homeTeamCountry": "Germany",
-        "awayTeamCountry": "France"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/9esmq41650311389.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Malta",
+        "awayTeamCountry": null
       },
       {
-        "homeTeam": "Arsenal (F)",
-        "awayTeam": "Chelsea (F)",
+        "homeTeam": "Real Madrid (F)",
+        "awayTeam": "Barcelona (F)",
+        "competition": "Champions League Feminina",
+        "time": "14:45",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Spain"
+      },
+      {
+        "homeTeam": "Grécia",
+        "awayTeam": "Paraguai",
+        "competition": "Amistoso Internacional",
+        "time": "16:00",
+        "whereToWatch": [
+          "ESPN 3",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3dajnx1606771893.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Costa Rica",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Itália",
+        "awayTeam": "Irlanda do Norte",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Eslováquia",
+        "awayTeam": "Kosovo",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/i3wq751730304457.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Kosovo"
+      },
+      {
+        "homeTeam": "Dinamarca",
+        "awayTeam": "Macedõnia do Norte",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Ucrânia",
+        "awayTeam": "Suécia",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "Sportv 2"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "País de Gales",
+        "awayTeam": "Bósnia e Herzegovina",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "Sportv 3"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "República Tcheca",
+        "awayTeam": "Irlanda",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "ESPN 3",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Polônia",
+        "awayTeam": "Albânia",
+        "competition": "Repescagem Europeia - Copa 2026 (semifinal)",
+        "time": "16:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vonacg1717365654.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Albania"
+      },
+      {
+        "homeTeam": "Inglaterra",
+        "awayTeam": "Uruguai",
+        "competition": "Amistoso Internacional",
+        "time": "16:45",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Holanda",
+        "awayTeam": "Noruega",
+        "competition": "Amistoso Internacional",
+        "time": "16:45",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Suíça",
+        "awayTeam": "Alemanha",
+        "competition": "Amistoso Internacional",
+        "time": "16:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Manchester United (F)",
+        "awayTeam": "Barcelona (F)",
         "competition": "Champions League Feminina",
         "time": "17:00",
         "whereToWatch": [
           "ESPN",
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/fagrsz1649620975.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
         "homeTeamCountry": "England",
-        "awayTeamCountry": "England"
+        "awayTeamCountry": "Spain"
       },
       {
-        "homeTeam": "Ca",
-        "awayTeam": "ias",
-        "competition": "Copa Sul-Sudeste",
-        "time": "19:00",
+        "homeTeam": "Brasil",
+        "awayTeam": "França",
+        "competition": "Amistoso Internacional",
+        "time": "17:00",
         "whereToWatch": [
+          "Globo",
+          "ge tv",
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Espanha",
+        "awayTeam": "Sérvia",
+        "competition": "Amistoso Internacional",
+        "time": "17:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Marrocos",
+        "awayTeam": "Equador",
+        "competition": "Amistoso Internacional",
+        "time": "17:15",
+        "whereToWatch": [
+          "Canal GOAT",
+          "Sportv 2",
           "Xsports"
         ],
         "homeTeamLogo": null,
@@ -44,28 +275,128 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Rio Branco-ES",
-        "awayTeam": "Vila Nova",
-        "competition": "Copa Verde",
+        "homeTeam": "Vitória",
+        "awayTeam": "Botafogo-PB",
+        "competition": "Copa do Nordeste",
         "time": "19:00",
         "whereToWatch": [
           "SportyNet"
         ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "América-RN",
+        "awayTeam": "Maranhão",
+        "competition": "Copa do Nordeste",
+        "time": "19:00",
+        "whereToWatch": [
+          "Canal do Benja"
+        ],
         "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rkxo201679387874.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Cianorte",
-        "awayTeam": "Volta Redonda",
+        "homeTeam": "Bolívia",
+        "awayTeam": "Suriname",
+        "competition": "Repescagem Mundial - Copa 2026",
+        "time": "19:00",
+        "whereToWatch": [
+          "Sportv 2",
+          "CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4q6qfm1736571383.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/fpwsu31600976268.png",
+        "homeTeamCountry": "Bolivia",
+        "awayTeamCountry": "Suriname"
+      },
+      {
+        "homeTeam": "Itabaiana",
+        "awayTeam": "CRB",
+        "competition": "Copa do Nordeste",
+        "time": "19:30",
+        "whereToWatch": [
+          "Romário TV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/u0v5vk1766508720.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vpypuq1472069179.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Cuiabá",
+        "awayTeam": "Tocantinópolis",
+        "competition": "Copa Verde",
+        "time": "20:30",
+        "whereToWatch": [
+          "Canal do Benja"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/15uys71625423613.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Novorizontino",
+        "awayTeam": "América-MG",
         "competition": "Copa Sul-Sudeste",
-        "time": "21:15",
+        "time": "21:30",
+        "whereToWatch": [
+          "SportyNet"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Chapecoense",
+        "awayTeam": "São Bernardo",
+        "competition": "Copa Sul-Sudeste",
+        "time": "21:45",
         "whereToWatch": [
           "Xsports"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/410zld1714066552.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/phc5fs1736379773.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0kt1ah1688106304.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Belgrano",
+        "awayTeam": "Atlético Rafaela",
+        "competition": "Copa Argentina",
+        "time": "22:15",
+        "whereToWatch": [
+          "Xsports",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "homeTeamCountry": "Argentina",
+        "awayTeamCountry": "Brazil"
+      }
+    ]
+  },
+  "2026-03-26": {
+    "date": "2026-03-26",
+    "totalGames": 1,
+    "games": [
+      {
+        "homeTeam": "ABC",
+        "awayTeam": "Ceará",
+        "competition": "Cup",
+        "time": "19:00",
+        "whereToWatch": [
+          "sportv",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/m1ampq1766507477.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       }
