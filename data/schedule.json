@@ -1,39 +1,79 @@
 {
-  "2026-03-27": {
-    "date": "2026-03-27",
-    "totalGames": 52,
+  "2026-03-28": {
+    "date": "2026-03-28",
+    "totalGames": 74,
     "games": [
       {
-        "homeTeam": "China",
-        "awayTeam": "Curaçao",
+        "homeTeam": "Cabo Verde",
+        "awayTeam": "Finlândia",
+        "competition": "Fifa Series 2026",
+        "time": "00:00",
+        "whereToWatch": [
+          "DAZN"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5jn0o71593280376.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Cape Verde",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Iraque",
+        "awayTeam": "Bolívia",
+        "competition": "Repescagem Mundial - Copa 2026",
+        "time": "00:00",
+        "whereToWatch": [
+          "Sportv",
+          "CazéTV"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4q6qfm1736571383.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Bolivia"
+      },
+      {
+        "homeTeam": "Camarões",
+        "awayTeam": "China",
         "competition": "Fifa Series 2026",
         "time": "03:00",
         "whereToWatch": [
           "DAZN"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pycrnz1710606856.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/itygvb1600955363.png",
-        "homeTeamCountry": "China",
-        "awayTeamCountry": "Curacao"
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pycrnz1710606856.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "China"
       },
       {
-        "homeTeam": "Nova Zelândia",
-        "awayTeam": "Finlândia",
+        "homeTeam": "Chile",
+        "awayTeam": "Nova Zelândia",
         "competition": "Fifa Series 2026",
         "time": "03:15",
         "whereToWatch": [
           "DAZN"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/flz9ht1587326573.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "United States",
-        "awayTeamCountry": null
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5xjsy41591988732.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/flz9ht1587326573.png",
+        "homeTeamCountry": "Chile",
+        "awayTeamCountry": "United States"
       },
       {
-        "homeTeam": "Ilhas Salomâo",
-        "awayTeam": "Finlândia",
+        "homeTeam": "Austrália",
+        "awayTeam": "Curaçao",
         "competition": "Fifa Series 2026",
-        "time": "05:30",
+        "time": "06:10",
+        "whereToWatch": [
+          "DAZN"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/itygvb1600955363.png",
+        "homeTeamCountry": "Australia",
+        "awayTeamCountry": "Curacao"
+      },
+      {
+        "homeTeam": "Gabão",
+        "awayTeam": "Trinidad e Tobago",
+        "competition": "Fifa Series 2026",
+        "time": "07:00",
         "whereToWatch": [
           "DAZN"
         ],
@@ -43,34 +83,8 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Austrália",
-        "awayTeam": "Camarões",
-        "competition": "Fifa Series 2026",
-        "time": "06:10",
-        "whereToWatch": [
-          "DAZN"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Australia",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Venezuela",
-        "awayTeam": "Trinidad e Tobago",
-        "competition": "Fifa Series 2026",
-        "time": "07:00",
-        "whereToWatch": [
-          "DAZN"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x167yg1690791367.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Venezuela",
-        "awayTeamCountry": null
-      },
-      {
         "homeTeam": "Chelsea (F)",
-        "awayTeam": "Aston Villa",
+        "awayTeam": "Aston Villa (F)",
         "competition": "Campeonato Inglês Feminino",
         "time": "08:00",
         "whereToWatch": [
@@ -78,21 +92,47 @@
           "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "England",
+        "awayTeamCountry": "United Kingdom"
+      },
+      {
+        "homeTeam": "Everton (F)",
+        "awayTeam": "Liverpool (F)",
+        "competition": "Campeonato Inglês Feminino",
+        "time": "09:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
         "homeTeamCountry": "England",
         "awayTeamCountry": "England"
       },
       {
-        "homeTeam": "Indonésia",
-        "awayTeam": "São Cristóvão e Nevis",
+        "homeTeam": "Namíbia",
+        "awayTeam": "Comores",
         "competition": "Fifa Series 2026",
+        "time": "09:00",
+        "whereToWatch": [
+          "DAZN"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ekrjgn1742103287.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Namibia",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Bayern de Munique (F)",
+        "awayTeam": "Nuremberg (F)",
+        "competition": "Campeonato Alemão Feminino",
         "time": "10:00",
         "whereToWatch": [
           "DAZN"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hkg0st1656933330.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/z2r3eh1678017187.png",
         "awayTeamLogo": null,
-        "homeTeamCountry": "Indonesia",
+        "homeTeamCountry": "Germany",
         "awayTeamCountry": null
       },
       {
@@ -126,42 +166,29 @@
       },
       {
         "homeTeam": "Uzbequistão",
-        "awayTeam": "Gabão",
+        "awayTeam": "Venezuela",
         "competition": "Fifa Series 2026",
         "time": "11:00",
         "whereToWatch": [
           "DAZN"
         ],
         "homeTeamLogo": null,
-        "awayTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x167yg1690791367.png",
         "homeTeamCountry": null,
-        "awayTeamCountry": null
+        "awayTeamCountry": "Venezuela"
       },
       {
-        "homeTeam": "Azerbaijão",
-        "awayTeam": "Santa Lúcia",
-        "competition": "Fifa Series 2026",
+        "homeTeam": "Athletic Bilbao (F)",
+        "awayTeam": "Atlético de Madrid (F)",
+        "competition": "Campeonato Espanhol Feminino",
         "time": "12:00",
-        "whereToWatch": [
-          "Sportv 2"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/aj99zj1589212204.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Guatemala"
-      },
-      {
-        "homeTeam": "Quênia",
-        "awayTeam": "Estônia",
-        "competition": "Fifa Series 2026",
-        "time": "13:00",
         "whereToWatch": [
           "DAZN"
         ],
         "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/n43zxi1730303815.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
         "homeTeamCountry": null,
-        "awayTeamCountry": "Estonia"
+        "awayTeamCountry": "Brazil"
       },
       {
         "homeTeam": "Senegal",
@@ -178,30 +205,83 @@
         "awayTeamCountry": "Peru"
       },
       {
-        "homeTeam": "Áustria",
-        "awayTeam": "Gana",
+        "homeTeam": "Chipre",
+        "awayTeam": "Moldávia",
         "competition": "Amistoso Internacional",
-        "time": "14:00",
-        "whereToWatch": [
-          "Sportv 2"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Austria",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Montenegro",
-        "awayTeam": "Andorra",
-        "competition": "Amistoso Internacional",
-        "time": "14:00",
+        "time": "13:00",
         "whereToWatch": [
           "Sportv 3"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/dywswx1552859263.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l5qspn1552847356.png",
-        "homeTeamCountry": "Montenegro",
-        "awayTeamCountry": "Andorra"
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Hamburgo (F)",
+        "awayTeam": "Bayer Leverkusen",
+        "competition": "Campeonato Alemão Feminino",
+        "time": "13:00",
+        "whereToWatch": [
+          "DAZN"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Germany"
+      },
+      {
+        "homeTeam": "Noruega",
+        "awayTeam": "Suíça",
+        "competition": "Amistoso Internacional",
+        "time": "13:00",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Sérvia",
+        "awayTeam": "Arábia Saudita",
+        "competition": "Amistoso Internacional",
+        "time": "13:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Letônia",
+        "awayTeam": "Gibraltar",
+        "competition": "Liga das Nações",
+        "time": "13:00",
+        "whereToWatch": [
+          "Sportv 2"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l5eevk1655237355.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Gibraltar"
+      },
+      {
+        "homeTeam": "Lu",
+        "awayTeam": "emburgo",
+        "competition": "Liga das Nações",
+        "time": "13:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Escócia",
@@ -218,29 +298,43 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Hungria",
+        "awayTeam": "Eslovênia",
+        "competition": "Amistoso Internacional",
+        "time": "14:00",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Hungria",
+        "awayTeam": "Grécia",
+        "competition": "Amistoso Internacional",
+        "time": "14:00",
+        "whereToWatch": [
+          "Sportv 3"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3dajnx1606771893.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Costa Rica"
+      },
+      {
         "homeTeam": "Arsenal (F)",
         "awayTeam": "Tottenham (F)",
         "competition": "Campeonato Inglês Feminino",
         "time": "14:30",
         "whereToWatch": [
-          "Canal GOAT"
+          "Canal GOAT",
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
         "awayTeamLogo": null,
         "homeTeamCountry": "England",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Vitória (F)",
-        "awayTeam": "Atlético-MG (F)",
-        "competition": "Brasileirão Feminino",
-        "time": "15:00",
-        "whereToWatch": [
-          "CBF TV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Brazil",
         "awayTeamCountry": null
       },
       {
@@ -257,31 +351,165 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Grécia",
+        "homeTeam": "Marrocos",
         "awayTeam": "Paraguai",
         "competition": "Amistoso Internacional",
-        "time": "16:00",
+        "time": "15:00",
+        "whereToWatch": [
+          "Xsports",
+          "Canal GOAT"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Peru",
+        "awayTeam": "Honduras",
+        "competition": "Amistoso Internacional",
+        "time": "15:00",
+        "whereToWatch": [
+          "+Canal GOAT"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/unszat1529144812.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wuu4fp1718413719.png",
+        "homeTeamCountry": "Peru",
+        "awayTeamCountry": "Honduras"
+      },
+      {
+        "homeTeam": "Escócia",
+        "awayTeam": "Costa do Marfim",
+        "competition": "Amistoso Internacional",
+        "time": "15:30",
+        "whereToWatch": [
+          "ESPN 2",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Aldosivi",
+        "awayTeam": "Argentinos Juniors",
+        "competition": "Campeonato Argentino",
+        "time": "15:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
+        "homeTeamCountry": "Argentina",
+        "awayTeamCountry": "Argentina"
+      },
+      {
+        "homeTeam": "Alemanha",
+        "awayTeam": "Gana",
+        "competition": "Amistoso Internacional",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Bósnia e Herzegovina",
+        "awayTeam": "Itália",
+        "competition": "Repescagem Europeia - Copa 2026",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Suécia",
+        "awayTeam": "Polônia",
+        "competition": "Repescagem Europeia - Copa 2026",
+        "time": "15:45",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Kosovo",
+        "awayTeam": "Turquia",
+        "competition": "Repescagem Europeia - Copa 2026",
+        "time": "15:45",
         "whereToWatch": [
           "ESPN 3",
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3dajnx1606771893.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/i3wq751730304457.png",
         "awayTeamLogo": null,
-        "homeTeamCountry": "Costa Rica",
+        "homeTeamCountry": "Kosovo",
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Ruanda",
-        "awayTeam": "Granada",
-        "competition": "Fifa Series 2026",
-        "time": "16:00",
+        "homeTeam": "República Tcheca",
+        "awayTeam": "Dinamarca",
+        "competition": "Repescagem Europeia - Copa 2026",
+        "time": "15:45",
         "whereToWatch": [
-          "DAZN"
+          "Disney+"
         ],
         "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png",
+        "awayTeamLogo": null,
         "homeTeamCountry": null,
-        "awayTeamCountry": "Spain"
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Holanda",
+        "awayTeam": "Equador",
+        "competition": "Amistoso Internacional",
+        "time": "15:45",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Inglaterra",
+        "awayTeam": "Japão",
+        "competition": "Amistoso Internacional",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv 2"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Áustria",
+        "awayTeam": "Coreia do Sul",
+        "competition": "Amistoso Internacional",
+        "time": "15:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Austria",
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Internacional (F)",
@@ -312,6 +540,32 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Real Madrid (F)",
+        "awayTeam": "Barcelona (F)",
+        "competition": "Campeonato Espanhol Feminino",
+        "time": "16:00",
+        "whereToWatch": [
+          "DAZN"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Spain"
+      },
+      {
+        "homeTeam": "Espanha",
+        "awayTeam": "Egito",
+        "competition": "Amistoso Internacional",
+        "time": "16:00",
+        "whereToWatch": [
+          "Sportv 3"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
         "homeTeam": "Estados Unidos",
         "awayTeam": "Bélgica",
         "competition": "Amistoso Internacional",
@@ -338,65 +592,12 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Inglaterra",
-        "awayTeam": "Uruguai",
-        "competition": "Amistoso Internacional",
-        "time": "16:45",
-        "whereToWatch": [
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": null,
-        "homeTeamCountry": null,
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Holanda",
-        "awayTeam": "Noruega",
-        "competition": "Amistoso Internacional",
-        "time": "16:45",
-        "whereToWatch": [
-          "Sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": null,
-        "homeTeamCountry": null,
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Suíça",
-        "awayTeam": "Alemanha",
-        "competition": "Amistoso Internacional",
-        "time": "16:45",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": null,
-        "homeTeamCountry": null,
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Espanha",
-        "awayTeam": "Sérvia",
-        "competition": "Amistoso Internacional",
-        "time": "17:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": null,
-        "homeTeamCountry": null,
-        "awayTeamCountry": null
-      },
-      {
         "homeTeam": "CRB",
         "awayTeam": "Vitória",
         "competition": "Copa do Nordeste",
         "time": "17:00",
         "whereToWatch": [
+          "SBT Nordeste",
           "SportyNet"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vpypuq1472069179.png",
@@ -470,21 +671,18 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Marrocos",
-        "awayTeam": "Equador",
-        "competition": "Amistoso Internacional",
-        "time": "17:15",
+        "homeTeam": "RD Congo",
+        "awayTeam": "Jamaica",
+        "competition": "Repescagem Mundial - Copa 2026",
+        "time": "18:00",
         "whereToWatch": [
-          "Canal GOAT",
-          "Sportv 3",
-          "Xsports",
-          "sportv",
-          "globoplay"
+          "Sportv",
+          "CazéTV"
         ],
         "homeTeamLogo": null,
-        "awayTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/v6mk4r1594321722.png",
         "homeTeamCountry": null,
-        "awayTeamCountry": null
+        "awayTeamCountry": "Jamaica"
       },
       {
         "homeTeam": "Avaí",
@@ -500,28 +698,44 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Botafogo (F)",
-        "awayTeam": "Corinthians (F)",
-        "competition": "Brasileirão Feminino",
-        "time": "19:00",
+        "homeTeam": "Botafogo-PB",
+        "awayTeam": "ASA",
+        "competition": "Copa do Nordeste",
+        "time": "18:30",
         "whereToWatch": [
-          "Sportv"
+          "Canal do Benja"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "homeTeamCountry": "Brazil",
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gojj1r1625417178.png",
+        "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Santos (F)",
-        "awayTeam": "Ferroviária (F)",
-        "competition": "Brasileirão Feminino",
-        "time": "19:00",
+        "homeTeam": "Jacuipense",
+        "awayTeam": "América-RN",
+        "competition": "Copa do Nordeste",
+        "time": "18:30",
         "whereToWatch": [
-          "N Sports"
+          "Canal do Benja"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zfo1y81766506623.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tpvm951579343879.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Juventude",
+        "awayTeam": "Novorizontino",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "18:30",
+        "whereToWatch": [
+          "Xsports",
+          "SportyNet",
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       },
@@ -544,10 +758,38 @@
         "competition": "Copa Sul-Sudeste",
         "time": "19:00",
         "whereToWatch": [
-          "SportyNet"
+          "SportyNet",
+          "sportv",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/phc5fs1736379773.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Atlético-MG (F)",
+        "awayTeam": "São Paulo (F)",
+        "competition": "Brasileirão Feminino",
+        "time": "19:00",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Fortaleza",
+        "awayTeam": "Cuiabá",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "19:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       },
@@ -557,7 +799,8 @@
         "competition": "Copa Verde",
         "time": "19:30",
         "whereToWatch": [
-          "Canal do Benja"
+          "Canal do Benja",
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/dkcdrr1625418083.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png",
@@ -592,18 +835,32 @@
         "awayTeamCountry": null
       },
       {
+        "homeTeam": "Estados Unidos",
+        "awayTeam": "Portugal",
+        "competition": "Amistoso Internacional",
+        "time": "20:00",
+        "whereToWatch": [
+          "Xsports"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Portugal"
+      },
+      {
         "homeTeam": "Argentina",
-        "awayTeam": "Mauritânia",
+        "awayTeam": "Zâmbia",
         "competition": "Amistoso Internacional",
         "time": "20:15",
         "whereToWatch": [
-          "ESPN",
-          "Disney+"
+          "BandSports",
+          "Bandplay",
+          "Band.com.br"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/fhgyir1742103524.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvh0al1553349957.png",
         "homeTeamCountry": "Argentina",
-        "awayTeamCountry": "Mauritania"
+        "awayTeamCountry": "Zambia"
       },
       {
         "homeTeam": "Vila Nova",
@@ -632,17 +889,32 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "São Paulo (F)",
-        "awayTeam": "Palmeiras (F)",
+        "homeTeam": "Ferroviária (F)",
+        "awayTeam": "Cruzeiro (F)",
         "competition": "Brasileirão Feminino",
-        "time": "21:30",
+        "time": "21:00",
         "whereToWatch": [
+          "TV Brasil"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zfo1y81766506623.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Brasil",
+        "awayTeam": "Croácia",
+        "competition": "Amistoso Internacional",
+        "time": "21:00",
+        "whereToWatch": [
+          "Globo",
+          "ge tv",
           "Sportv"
         ],
         "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "awayTeamLogo": null,
         "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Juventude",
@@ -654,6 +926,19 @@
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Palmeiras (F)",
+        "awayTeam": "Flamengo (F)",
+        "competition": "Brasileirão Feminino",
+        "time": "21:30",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       },
@@ -671,39 +956,34 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Belgrano",
-        "awayTeam": "Atlético Rafaela",
-        "competition": "Copa Argentina",
-        "time": "22:15",
+        "homeTeam": "Mixto-MT",
+        "awayTeam": "América-MG",
+        "competition": "Women's Football",
+        "time": "15:00",
         "whereToWatch": [
-          "Xsports",
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
-        "homeTeamCountry": "Argentina",
-        "awayTeamCountry": "Brazil"
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
       },
       {
-        "homeTeam": "Corinthians",
-        "awayTeam": "Botafogo",
-        "competition": "Women's Football",
-        "time": "19:00",
+        "homeTeam": "Tunísia",
+        "awayTeam": "Haiti",
+        "competition": "Unknown Competition",
+        "time": "21:00",
         "whereToWatch": [
           "sportv",
-          "globoplay"
+          "Globo",
+          "globoplay",
+          "Ge TV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      }
-    ]
-  },
-  "2026-03-28": {
-    "date": "2026-03-28",
-    "totalGames": 1,
-    "games": [
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
+        "homeTeamCountry": "Tunisia",
+        "awayTeamCountry": "Haiti"
+      },
       {
         "homeTeam": "Portugal",
         "awayTeam": "México",
@@ -717,6 +997,27 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
         "homeTeamCountry": "Portugal",
         "awayTeamCountry": "Mexico"
+      }
+    ]
+  },
+  "2026-03-29": {
+    "date": "2026-03-29",
+    "totalGames": 1,
+    "games": [
+      {
+        "homeTeam": "Bahia",
+        "awayTeam": "Bragantino",
+        "competition": "Women's Football",
+        "time": "17:00",
+        "whereToWatch": [
+          "Disney+",
+          "sportv",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       }
     ]
   }
