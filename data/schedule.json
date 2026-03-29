@@ -1,7 +1,7 @@
 {
-  "2026-03-28": {
-    "date": "2026-03-28",
-    "totalGames": 74,
+  "2026-03-29": {
+    "date": "2026-03-29",
+    "totalGames": 73,
     "games": [
       {
         "homeTeam": "Cabo Verde",
@@ -650,7 +650,10 @@
         "competition": "Copa do Nordeste",
         "time": "17:00",
         "whereToWatch": [
-          "SportyNet"
+          "SportyNet",
+          "Disney+",
+          "sportv",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/m1ampq1766507477.png",
         "awayTeamLogo": null,
@@ -690,7 +693,8 @@
         "competition": "Copa Sul-Sudeste",
         "time": "18:15",
         "whereToWatch": [
-          "Xsports"
+          "Xsports",
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/410zld1714066552.png",
@@ -758,9 +762,7 @@
         "competition": "Copa Sul-Sudeste",
         "time": "19:00",
         "whereToWatch": [
-          "SportyNet",
-          "sportv",
-          "globoplay"
+          "SportyNet"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/phc5fs1736379773.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
@@ -799,8 +801,7 @@
         "competition": "Copa Verde",
         "time": "19:30",
         "whereToWatch": [
-          "Canal do Benja",
-          "Disney+"
+          "Canal do Benja"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/dkcdrr1625418083.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png",
@@ -814,7 +815,8 @@
         "time": "19:30",
         "whereToWatch": [
           "Sportv",
-          "Premiere"
+          "Premiere",
+          "globoplay"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
@@ -956,22 +958,58 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Mixto-MT",
-        "awayTeam": "América-MG",
-        "competition": "Women's Football",
-        "time": "15:00",
+        "homeTeam": "França",
+        "awayTeam": "Colômbia",
+        "competition": "Unknown Competition",
+        "time": "17:00",
         "whereToWatch": [
-          "Disney+"
+          "Disney+",
+          "sportv",
+          "globoplay"
         ],
         "homeTeamLogo": null,
-        "awayTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
         "homeTeamCountry": null,
-        "awayTeamCountry": null
+        "awayTeamCountry": "Colombia"
       },
       {
-        "homeTeam": "Tunísia",
-        "awayTeam": "Haiti",
-        "competition": "Unknown Competition",
+        "homeTeam": "Caxias",
+        "awayTeam": "América-MG",
+        "competition": "Cup",
+        "time": "19:30",
+        "whereToWatch": [
+          "sportv",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/o4jhxw1625417717.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
+      }
+    ]
+  },
+  "2026-03-30": {
+    "date": "2026-03-30",
+    "totalGames": 3,
+    "games": [
+      {
+        "homeTeam": "São Paulo",
+        "awayTeam": "Atlético-MG",
+        "competition": "Women's Football",
+        "time": "19:00",
+        "whereToWatch": [
+          "sportv",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Cruzeiro",
+        "awayTeam": "Ferroviária",
+        "competition": "Women's Football",
         "time": "21:00",
         "whereToWatch": [
           "sportv",
@@ -979,43 +1017,22 @@
           "globoplay",
           "Ge TV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
-        "homeTeamCountry": "Tunisia",
-        "awayTeamCountry": "Haiti"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zfo1y81766506623.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Portugal",
-        "awayTeam": "México",
-        "competition": "Unknown Competition",
-        "time": "22:00",
-        "whereToWatch": [
-          "sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
-        "homeTeamCountry": "Portugal",
-        "awayTeamCountry": "Mexico"
-      }
-    ]
-  },
-  "2026-03-29": {
-    "date": "2026-03-29",
-    "totalGames": 1,
-    "games": [
-      {
-        "homeTeam": "Bahia",
-        "awayTeam": "Bragantino",
+        "homeTeam": "Flamengo",
+        "awayTeam": "Palmeiras",
         "competition": "Women's Football",
-        "time": "17:00",
+        "time": "21:30",
         "whereToWatch": [
-          "Disney+",
           "sportv",
           "globoplay"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       }
