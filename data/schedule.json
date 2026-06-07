@@ -1,7 +1,7 @@
 {
-  "2026-06-06": {
-    "date": "2026-06-06",
-    "totalGames": 36,
+  "2026-06-07": {
+    "date": "2026-06-07",
+    "totalGames": 34,
     "games": [
       {
         "homeTeam": "Bélgica",
@@ -120,10 +120,7 @@
         "time": "15:30",
         "whereToWatch": [
           "ESPN 4",
-          "Disney+",
-          "sportv",
-          "globoplay",
-          "Ge TV"
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
         "awayTeamLogo": null,
@@ -136,7 +133,8 @@
         "competition": "Amistoso Internacional",
         "time": "15:45",
         "whereToWatch": [
-          "Sportv"
+          "Sportv",
+          "globoplay"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/s7k1x51552909864.png",
@@ -165,9 +163,7 @@
         "whereToWatch": [
           "SBT Nordeste",
           "SportyNet",
-          "Canal do Benja",
-          "premiere",
-          "sportv"
+          "Canal do Benja"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
@@ -180,7 +176,8 @@
         "competition": "Amistoso Internacional",
         "time": "16:00",
         "whereToWatch": [
-          "CazéTV e Xsports"
+          "CazéTV e Xsports",
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
@@ -306,7 +303,9 @@
         "time": "18:30",
         "whereToWatch": [
           "SportyNet",
-          "Canal do Benja"
+          "Canal do Benja",
+          "premiere",
+          "sportv"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/9rrdrn1740851540.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ofh9od1733798605.png",
@@ -321,8 +320,7 @@
         "whereToWatch": [
           "Globo",
           "ge tv",
-          "Sportv",
-          "globoplay"
+          "Sportv"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
         "awayTeamLogo": null,
@@ -377,7 +375,8 @@
         "competition": "Amistoso Internacional",
         "time": "20:00",
         "whereToWatch": [
-          "Sportv"
+          "Sportv",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png",
@@ -467,53 +466,24 @@
         "awayTeamCountry": "Spain"
       },
       {
-        "homeTeam": "Bulgária",
+        "homeTeam": "Itália",
         "awayTeam": "Brasil",
         "competition": "Unknown Competition",
-        "time": "11:00",
-        "whereToWatch": [
-          "sportv",
-          "Globo",
-          "globoplay",
-          "Ge TV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0bee7p1552858893.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "homeTeamCountry": "Bulgaria",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Paranavaí",
-        "awayTeam": "Paraná",
-        "competition": "Unknown Competition",
-        "time": "15:30",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vuuwqu1464886978.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Estados Unidos",
-        "awayTeam": "Brasil",
-        "competition": "Women's Football",
-        "time": "18:30",
+        "time": "14:30",
         "whereToWatch": [
           "sportv",
           "globoplay",
           "Ge TV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/fxijcp1726167035.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "homeTeamCountry": "United States",
+        "homeTeamCountry": "Italy",
         "awayTeamCountry": "Brazil"
       }
     ]
   },
-  "2026-06-07": {
-    "date": "2026-06-07",
+  "2026-06-08": {
+    "date": "2026-06-08",
     "totalGames": 0,
     "games": []
   }
