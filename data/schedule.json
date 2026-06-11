@@ -1,7 +1,7 @@
 {
-  "2026-06-10": {
-    "date": "2026-06-10",
-    "totalGames": 14,
+  "2026-06-11": {
+    "date": "2026-06-11",
+    "totalGames": 17,
     "games": [
       {
         "homeTeam": "Málaga",
@@ -49,13 +49,25 @@
         "awayTeamCountry": "Bosnia and Herzegovina"
       },
       {
+        "homeTeam": "Qatar",
+        "awayTeam": "Suíça",
+        "competition": "Copa do Mundo",
+        "time": "16:00",
+        "whereToWatch": [
+          "CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rs3ir31642708685.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png",
+        "homeTeamCountry": "Qatar",
+        "awayTeamCountry": "Switzerland"
+      },
+      {
         "homeTeam": "Portugal",
         "awayTeam": "Nigéria",
         "competition": "Amistoso Internacional",
         "time": "16:45",
         "whereToWatch": [
-          "Sportv",
-          "globoplay"
+          "Sportv"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/qruyxr1455466056.png",
@@ -93,6 +105,25 @@
         "awayTeamCountry": "Brazil"
       },
       {
+        "homeTeam": "Brasil",
+        "awayTeam": "Marrocos",
+        "competition": "Copa do Mundo",
+        "time": "19:00",
+        "whereToWatch": [
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Morocco"
+      },
+      {
         "homeTeam": "Ceará",
         "awayTeam": "Avaí",
         "competition": "Campeonato Brasileiro (segunda divisão)",
@@ -114,8 +145,7 @@
         "competition": "Campeonato Brasileiro (segunda divisão)",
         "time": "20:00",
         "whereToWatch": [
-          "Disney+",
-          "Ge TV"
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/qhfhdp1635869930.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
@@ -146,12 +176,26 @@
           "ge tv",
           "Sportv",
           "N Sports",
-          "SBT"
+          "SBT",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png",
         "homeTeamCountry": "United States",
         "awayTeamCountry": "Paraguay"
+      },
+      {
+        "homeTeam": "Haiti",
+        "awayTeam": "Escócia",
+        "competition": "Copa do Mundo",
+        "time": "22:00",
+        "whereToWatch": [
+          "CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
+        "homeTeamCountry": "Haiti",
+        "awayTeamCountry": "Scotland"
       },
       {
         "homeTeam": "Coreia do Sul",
@@ -183,7 +227,7 @@
         "awayTeamCountry": "Mexico"
       },
       {
-        "homeTeam": "Irã",
+        "homeTeam": "Bélgica",
         "awayTeam": "Brasil",
         "competition": "Unknown Competition",
         "time": "20:00",
@@ -193,28 +237,31 @@
           "globoplay",
           "Ge TV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uttpvw1455465617.png",
+        "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "homeTeamCountry": "Iran",
+        "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Athletic Club",
-        "awayTeam": "Sport",
-        "competition": "Brazilian Championship",
-        "time": "21:00",
+        "homeTeam": "Bósnia",
+        "awayTeam": "Canadá",
+        "competition": "Cup",
+        "time": "16:00",
         "whereToWatch": [
-          "Disney+"
+          "sportv",
+          "Globo",
+          "globoplay",
+          "Ge TV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ccv781758334788.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Kuwait"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
+        "homeTeamCountry": "Bosnia and Herzegovina",
+        "awayTeamCountry": "Canada"
       }
     ]
   },
-  "2026-06-11": {
-    "date": "2026-06-11",
+  "2026-06-12": {
+    "date": "2026-06-12",
     "totalGames": 0,
     "games": []
   }
