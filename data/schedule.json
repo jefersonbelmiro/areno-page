@@ -1,7 +1,7 @@
 {
-  "2026-06-19": {
-    "date": "2026-06-19",
-    "totalGames": 29,
+  "2026-06-20": {
+    "date": "2026-06-20",
+    "totalGames": 28,
     "games": [
       {
         "homeTeam": "Turquia",
@@ -10,10 +10,7 @@
         "time": "00:00",
         "whereToWatch": [
           "CazéTV",
-          "Globo e Sportv",
-          "sportv",
-          "Globo",
-          "globoplay"
+          "Globo e Sportv"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png",
@@ -41,7 +38,10 @@
         "time": "01:00",
         "whereToWatch": [
           "CazéTV",
-          "Globo e Sportv"
+          "Globo e Sportv",
+          "sportv",
+          "Globo",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ffsyxz1591989843.png",
@@ -130,19 +130,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/u5bgze1597943605.png",
         "homeTeamCountry": "Portugal",
         "awayTeamCountry": "Uzbekistan"
-      },
-      {
-        "homeTeam": "Estados Unidos",
-        "awayTeam": "Austrália",
-        "competition": "Copa do Mundo",
-        "time": "16:00",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png",
-        "homeTeamCountry": "United States",
-        "awayTeamCountry": "Australia"
       },
       {
         "homeTeam": "Bélgica",
@@ -250,19 +237,6 @@
         "awayTeamLogo": null,
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Escócia",
-        "awayTeam": "Marrocos",
-        "competition": "Copa do Mundo",
-        "time": "19:00",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
-        "homeTeamCountry": "Scotland",
-        "awayTeamCountry": "Morocco"
       },
       {
         "homeTeam": "Ceará",
@@ -379,25 +353,6 @@
         "awayTeamCountry": "Senegal"
       },
       {
-        "homeTeam": "Brasil",
-        "awayTeam": "Haiti",
-        "competition": "Copa do Mundo",
-        "time": "21:30",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "ge tv",
-          "Sportv",
-          "N Sports",
-          "SBT",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Haiti"
-      },
-      {
         "homeTeam": "Nova Zelândia",
         "awayTeam": "Egito",
         "competition": "Copa do Mundo",
@@ -424,25 +379,19 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rieszn1728748814.png",
         "homeTeamCountry": "Colombia",
         "awayTeamCountry": "Congo"
-      }
-    ]
-  },
-  "2026-06-20": {
-    "date": "2026-06-20",
-    "totalGames": 2,
-    "games": [
+      },
       {
-        "homeTeam": "Athletic Club",
-        "awayTeam": "Londrina",
-        "competition": "Brazilian Championship",
-        "time": "11:00",
+        "homeTeam": "Brasil",
+        "awayTeam": "Escócia",
+        "competition": "Cup",
+        "time": "19:00",
         "whereToWatch": [
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
         "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
+        "awayTeamCountry": "Scotland"
       },
       {
         "homeTeam": "Volta Redonda",
@@ -459,6 +408,25 @@
         "awayTeamLogo": null,
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": null
+      }
+    ]
+  },
+  "2026-06-21": {
+    "date": "2026-06-21",
+    "totalGames": 1,
+    "games": [
+      {
+        "homeTeam": "Athletic Club",
+        "awayTeam": "Londrina",
+        "competition": "Brazilian Championship",
+        "time": "11:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       }
     ]
   }
