@@ -1,7 +1,7 @@
 {
-  "2026-06-22": {
-    "date": "2026-06-22",
-    "totalGames": 16,
+  "2026-06-23": {
+    "date": "2026-06-23",
+    "totalGames": 12,
     "games": [
       {
         "homeTeam": "Jordânia",
@@ -10,33 +10,12 @@
         "time": "00:00",
         "whereToWatch": [
           "CazéTV",
-          "Globo e Sportv",
-          "sportv",
-          "Globo",
-          "globoplay"
+          "Globo e Sportv"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png",
         "awayTeamLogo": null,
         "homeTeamCountry": "Jordan",
         "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Argentina",
-        "awayTeam": "Áustria",
-        "competition": "Copa do Mundo",
-        "time": "14:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "ge tv",
-          "Sportv",
-          "N Sports",
-          "SBT"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
-        "homeTeamCountry": "Argentina",
-        "awayTeamCountry": "Austria"
       },
       {
         "homeTeam": "Portugal",
@@ -88,25 +67,13 @@
           "ge tv",
           "Sportv",
           "N Sports",
-          "SBT"
+          "SBT",
+          "globoplay"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bfmai71551785964.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "United States"
-      },
-      {
-        "homeTeam": "França",
-        "awayTeam": "Iraque",
-        "competition": "Copa do Mundo",
-        "time": "18:00",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/aqidfn1742100110.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Iraq"
       },
       {
         "homeTeam": "Brasil",
@@ -141,26 +108,13 @@
         "awayTeamCountry": "Haiti"
       },
       {
-        "homeTeam": "Ponte Preta",
-        "awayTeam": "Novorizontino",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "20:00",
-        "whereToWatch": [
-          "ESPN 4",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wbss4d1644929547.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
         "homeTeam": "Panamá",
         "awayTeam": "Croácia",
         "competition": "Copa do Mundo",
         "time": "20:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png",
@@ -180,23 +134,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
         "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Noruega",
-        "awayTeam": "Senegal",
-        "competition": "Copa do Mundo",
-        "time": "21:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo e Sportv",
-          "sportv",
-          "Globo",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/slayb01780546342.png",
-        "homeTeamCountry": "Norway",
-        "awayTeamCountry": "Senegal"
       },
       {
         "homeTeam": "República Tcheca",
@@ -231,7 +168,10 @@
         "time": "23:00",
         "whereToWatch": [
           "CazéTV",
-          "Globo e Sportv"
+          "Globo e Sportv",
+          "sportv",
+          "Globo",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rieszn1728748814.png",
@@ -240,8 +180,8 @@
       }
     ]
   },
-  "2026-06-23": {
-    "date": "2026-06-23",
+  "2026-06-24": {
+    "date": "2026-06-24",
     "totalGames": 0,
     "games": []
   }
