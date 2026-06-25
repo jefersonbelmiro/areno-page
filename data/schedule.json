@@ -1,7 +1,7 @@
 {
-  "2026-06-24": {
-    "date": "2026-06-24",
-    "totalGames": 22,
+  "2026-06-25": {
+    "date": "2026-06-25",
+    "totalGames": 28,
     "games": [
       {
         "homeTeam": "Egito",
@@ -9,7 +9,8 @@
         "competition": "Copa do Mundo",
         "time": "00:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo e Sportv"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uttpvw1455465617.png",
@@ -30,30 +31,17 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Suíça",
-        "awayTeam": "Canadá",
-        "competition": "Copa do Mundo",
-        "time": "16:00",
+        "homeTeam": "Operário-PR",
+        "awayTeam": "América-MG",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "11:00",
         "whereToWatch": [
-          "CazéTV"
+          "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
-        "homeTeamCountry": "Switzerland",
-        "awayTeamCountry": "Canada"
-      },
-      {
-        "homeTeam": "Bósnia e Herzegovina",
-        "awayTeam": "Qatar",
-        "competition": "Copa do Mundo",
-        "time": "16:00",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rs3ir31642708685.png",
-        "homeTeamCountry": "Bosnia and Herzegovina",
-        "awayTeamCountry": "Qatar"
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Noruega",
@@ -61,7 +49,11 @@
         "competition": "Copa do Mundo",
         "time": "16:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo e Sportv",
+          "sportv",
+          "Globo",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
@@ -82,12 +74,84 @@
         "awayTeamCountry": "Iraq"
       },
       {
+        "homeTeam": "Criciúma",
+        "awayTeam": "São Bernardo",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "16:00",
+        "whereToWatch": [
+          "Canal GOAT",
+          "RedeTV!",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0kt1ah1688106304.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "África do Sul",
+        "awayTeam": "Canadá",
+        "competition": "Copa do Mundo (16 avos de final)",
+        "time": "16:00",
+        "whereToWatch": [
+          "CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/brxchx1775230997.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
+        "homeTeamCountry": "Ecuador",
+        "awayTeamCountry": "Canada"
+      },
+      {
+        "homeTeam": "Atlético-GO",
+        "awayTeam": "Ponte Preta",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "16:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7382k1766505911.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wbss4d1644929547.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Athletic Club-MG",
+        "awayTeam": "Avaí",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "16:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png",
+        "homeTeamCountry": "United States",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Juventude",
+        "awayTeam": "Ceará",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "16:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
         "homeTeam": "Equador",
         "awayTeam": "Alemanha",
         "competition": "Copa do Mundo",
         "time": "17:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo",
+          "ge tv e Sportv",
+          "sportv",
+          "globoplay",
+          "Ge TV"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png",
         "awayTeamLogo": null,
@@ -100,7 +164,10 @@
         "competition": "Copa do Mundo",
         "time": "17:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Sportv 2",
+          "sportv",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/itygvb1600955363.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bss90a1637840151.png",
@@ -108,36 +175,63 @@
         "awayTeamCountry": "Costa Rica"
       },
       {
-        "homeTeam": "Brasil",
-        "awayTeam": "Escócia",
+        "homeTeam": "Panamá",
+        "awayTeam": "Inglaterra",
         "competition": "Copa do Mundo",
-        "time": "19:00",
+        "time": "18:00",
         "whereToWatch": [
           "CazéTV",
           "Globo",
           "ge tv",
           "Sportv",
           "N Sports",
-          "SBT",
-          "globoplay"
+          "SBT"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Scotland"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Panama",
+        "awayTeamCountry": null
       },
       {
-        "homeTeam": "Marrocos",
-        "awayTeam": "Haiti",
+        "homeTeam": "Croácia",
+        "awayTeam": "Gana",
         "competition": "Copa do Mundo",
-        "time": "19:00",
+        "time": "18:00",
         "whereToWatch": [
           "CazéTV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
-        "homeTeamCountry": "Morocco",
-        "awayTeamCountry": "Haiti"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bfmai71551785964.png",
+        "homeTeamCountry": "Croatia",
+        "awayTeamCountry": "United States"
+      },
+      {
+        "homeTeam": "Náutico",
+        "awayTeam": "Goiás",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "18:30",
+        "whereToWatch": [
+          "Premiere"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wywuwv1464886832.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/qhfhdp1635869930.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Fortaleza",
+        "awayTeam": "Sport",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "18:30",
+        "whereToWatch": [
+          "SportyNet. Xsports",
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ccv781758334788.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Kuwait"
       },
       {
         "homeTeam": "Novorizontino",
@@ -145,7 +239,9 @@
         "competition": "Campeonato Brasileiro (segunda divisão)",
         "time": "19:00",
         "whereToWatch": [
-          "Disney+"
+          "SportyNet",
+          "XSports",
+          "ESPN e Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
@@ -158,7 +254,13 @@
         "competition": "Copa do Mundo",
         "time": "20:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ffsyxz1591989843.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png",
@@ -192,12 +294,43 @@
         "awayTeamCountry": "Brazil"
       },
       {
+        "homeTeam": "Colômbia",
+        "awayTeam": "Portugal",
+        "competition": "Copa do Mundo",
+        "time": "20:30",
+        "whereToWatch": [
+          "CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
+        "homeTeamCountry": "Colombia",
+        "awayTeamCountry": "Portugal"
+      },
+      {
+        "homeTeam": "RD Congo",
+        "awayTeam": "Uzbequistão",
+        "competition": "Copa do Mundo",
+        "time": "20:30",
+        "whereToWatch": [
+          "CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rieszn1728748814.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/u5bgze1597943605.png",
+        "homeTeamCountry": "Congo",
+        "awayTeamCountry": "Uzbekistan"
+      },
+      {
         "homeTeam": "Uruguai",
         "awayTeam": "Espanha",
         "competition": "Copa do Mundo",
         "time": "21:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
@@ -210,38 +343,13 @@
         "competition": "Copa do Mundo",
         "time": "21:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Sportv 2"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5jn0o71593280376.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png",
         "homeTeamCountry": "Cape Verde",
         "awayTeamCountry": "Saudi Arabia"
-      },
-      {
-        "homeTeam": "República Tcheca",
-        "awayTeam": "Mé",
-        "competition": "Copa do Mundo",
-        "time": "22:00",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1o0cx31654205806.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Czechia",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "África do Sul",
-        "awayTeam": "Coreia do Sul",
-        "competition": "Copa do Mundo",
-        "time": "22:00",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/brxchx1775230997.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/a8nqfs1589564916.png",
-        "homeTeamCountry": "Ecuador",
-        "awayTeamCountry": "South Korea"
       },
       {
         "homeTeam": "Paraguai",
@@ -262,7 +370,11 @@
         "competition": "Copa do Mundo",
         "time": "23:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo e Sportv",
+          "sportv",
+          "Globo",
+          "globoplay"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
@@ -270,40 +382,36 @@
         "awayTeamCountry": "United States"
       },
       {
-        "homeTeam": "Brasil",
-        "awayTeam": "Ucrânia",
-        "competition": "Unknown Competition",
-        "time": "11:30",
+        "homeTeam": "Jordânia",
+        "awayTeam": "Argentina",
+        "competition": "Copa do Mundo",
+        "time": "23:00",
         "whereToWatch": [
-          "sportv",
-          "Globo",
-          "globoplay",
-          "Ge TV"
+          "CazéTV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/k36g2e1591982718.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Ukraine"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+        "homeTeamCountry": "Jordan",
+        "awayTeamCountry": "Argentina"
       },
       {
-        "homeTeam": "México",
-        "awayTeam": "República Tcheca",
-        "competition": "Cup",
-        "time": "22:00",
+        "homeTeam": "Argélia",
+        "awayTeam": "Áustria",
+        "competition": "Copa do Mundo",
+        "time": "23:00",
         "whereToWatch": [
-          "sportv",
-          "Globo",
-          "globoplay"
+          "CazéTV",
+          "Globo e Sportv"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1o0cx31654205806.png",
-        "homeTeamCountry": "Mexico",
-        "awayTeamCountry": "Czechia"
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Austria"
       }
     ]
   },
-  "2026-06-25": {
-    "date": "2026-06-25",
+  "2026-06-26": {
+    "date": "2026-06-26",
     "totalGames": 0,
     "games": []
   }
