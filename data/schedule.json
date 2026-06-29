@@ -1,12 +1,25 @@
 {
-  "2026-06-28": {
-    "date": "2026-06-28",
-    "totalGames": 11,
+  "2026-06-29": {
+    "date": "2026-06-29",
+    "totalGames": 10,
     "games": [
+      {
+        "homeTeam": "Inglaterra",
+        "awayTeam": "RD Congo",
+        "competition": "Copa do Mundo (16 avos de final)",
+        "time": "13:00",
+        "whereToWatch": [
+          "CazéTV"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rieszn1728748814.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Congo"
+      },
       {
         "homeTeam": "Brasil",
         "awayTeam": "Japão",
-        "competition": "Copa do Mundo",
+        "competition": "Copa do Mundo (16 avos de final)",
         "time": "14:00",
         "whereToWatch": [
           "CazéTV",
@@ -23,93 +36,110 @@
         "awayTeamCountry": "Japan"
       },
       {
-        "homeTeam": "África do Sul",
-        "awayTeam": "Canadá",
+        "homeTeam": "Costa do Marfim",
+        "awayTeam": "Noruega",
         "competition": "Copa do Mundo (16 avos de final)",
-        "time": "16:00",
+        "time": "14:00",
         "whereToWatch": [
           "CazéTV",
-          "Disney+"
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT",
+          "globoplay"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/brxchx1775230997.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
-        "homeTeamCountry": "Ecuador",
-        "awayTeamCountry": "Canada"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bss90a1637840151.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
+        "homeTeamCountry": "Costa Rica",
+        "awayTeamCountry": "Norway"
       },
       {
-        "homeTeam": "Atlético-GO",
-        "awayTeam": "Ponte Preta",
+        "homeTeam": "Bélgica",
+        "awayTeam": "Senegal",
+        "competition": "Copa do Mundo (16 avos de final)",
+        "time": "17:00",
+        "whereToWatch": [
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/slayb01780546342.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Senegal"
+      },
+      {
+        "homeTeam": "Alemanha",
+        "awayTeam": "Paraguai",
+        "competition": "Copa do Mundo (16 avos de final)",
+        "time": "17:30",
+        "whereToWatch": [
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT",
+          "globoplay"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Paraguay"
+      },
+      {
+        "homeTeam": "França",
+        "awayTeam": "Suécia",
+        "competition": "Copa do Mundo (16 avos de final)",
+        "time": "18:00",
+        "whereToWatch": [
+          "CazéTV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Sweden"
+      },
+      {
+        "homeTeam": "Botafogo-SP",
+        "awayTeam": "CRB",
         "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "16:00",
+        "time": "20:00",
         "whereToWatch": [
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7382k1766505911.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wbss4d1644929547.png",
-        "homeTeamCountry": "Brazil",
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vpypuq1472069179.png",
+        "homeTeamCountry": null,
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Athletic Club-MG",
-        "awayTeam": "Avaí",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "16:00",
+        "homeTeam": "Estados Unidos",
+        "awayTeam": "Bósnia e Herzegovina",
+        "competition": "Copa do Mundo (16 avos de final)",
+        "time": "21:00",
         "whereToWatch": [
-          "Disney+"
+          "CazéTV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png",
         "homeTeamCountry": "United States",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Juventude",
-        "awayTeam": "Ceará",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "16:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Náutico",
-        "awayTeam": "Goiás",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "18:30",
-        "whereToWatch": [
-          "Premiere"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wywuwv1464886832.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/qhfhdp1635869930.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Fortaleza",
-        "awayTeam": "Sport",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "18:30",
-        "whereToWatch": [
-          "SportyNet. Xsports",
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ccv781758334788.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Kuwait"
+        "awayTeamCountry": "Bosnia and Herzegovina"
       },
       {
         "homeTeam": "Holanda",
         "awayTeam": "Marrocos",
-        "competition": "Copa do Mundo",
+        "competition": "Copa do Mundo (16 avos de final)",
         "time": "22:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "sportv",
+          "Globo",
+          "globoplay"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
@@ -117,52 +147,41 @@
         "awayTeamCountry": "Morocco"
       },
       {
-        "homeTeam": "Brasil",
-        "awayTeam": "Canadá",
-        "competition": "Unknown Competition",
-        "time": "11:30",
+        "homeTeam": "Mé",
+        "awayTeam": "ico",
+        "competition": "Copa do Mundo (16 avos de final)",
+        "time": "22:00",
         "whereToWatch": [
-          "sportv",
+          "CazéTV",
           "Globo",
-          "globoplay",
-          "Ge TV"
+          "Sportv"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Canada"
-      },
-      {
-        "homeTeam": "Avaí",
-        "awayTeam": "Athletic Club",
-        "competition": "Brazilian Championship",
-        "time": "16:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "São Joseense",
-        "awayTeam": "Cianorte",
-        "competition": "Brazilian Championship",
-        "time": "16:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j0ji0e1679387868.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/410zld1714066552.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
       }
     ]
   },
-  "2026-06-29": {
-    "date": "2026-06-29",
-    "totalGames": 0,
-    "games": []
+  "2026-06-30": {
+    "date": "2026-06-30",
+    "totalGames": 1,
+    "games": [
+      {
+        "homeTeam": "Equador",
+        "awayTeam": "México",
+        "competition": "Cup",
+        "time": "22:00",
+        "whereToWatch": [
+          "sportv",
+          "Globo",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+        "homeTeamCountry": "Ecuador",
+        "awayTeamCountry": "Mexico"
+      }
+    ]
   }
 }
