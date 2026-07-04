@@ -1,7 +1,7 @@
 {
-  "2026-07-03": {
-    "date": "2026-07-03",
-    "totalGames": 19,
+  "2026-07-04": {
+    "date": "2026-07-04",
+    "totalGames": 16,
     "games": [
       {
         "homeTeam": "Canadá",
@@ -9,46 +9,18 @@
         "competition": "Copa do Mundo (oitavas de final)",
         "time": "14:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo",
+          "Sportv",
+          "ge TV",
+          "SBT",
+          "N Sports",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
         "homeTeamCountry": "Canada",
         "awayTeamCountry": "Morocco"
-      },
-      {
-        "homeTeam": "Austrália",
-        "awayTeam": "Egito",
-        "competition": "Copa do Mundo (16 avos de final)",
-        "time": "15:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo e Sportv",
-          "sportv",
-          "Globo",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/eylq8x1781926138.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Australia",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Flamengo",
-        "awayTeam": "River Plate",
-        "competition": "Amistosos de Clubes",
-        "time": "15:30",
-        "whereToWatch": [
-          "Sportv 2",
-          "ge tv",
-          "Premiere",
-          "sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Argentina"
       },
       {
         "homeTeam": "Criciúma",
@@ -149,25 +121,6 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Argentina",
-        "awayTeam": "Cabo Verde",
-        "competition": "Copa do Mundo (16 avos de final)",
-        "time": "19:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "ge tv",
-          "Sportv",
-          "N Sports",
-          "SBT",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5jn0o71593280376.png",
-        "homeTeamCountry": "Argentina",
-        "awayTeamCountry": "Cape Verde"
-      },
-      {
         "homeTeam": "Botafogo-SP",
         "awayTeam": "Avaí",
         "competition": "Campeonato Brasileiro (segunda divisão)",
@@ -263,25 +216,6 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Colômbia",
-        "awayTeam": "Gana",
-        "competition": "Copa do Mundo (16 avos de final)",
-        "time": "22:30",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bfmai71551785964.png",
-        "homeTeamCountry": "Colombia",
-        "awayTeamCountry": "United States"
-      }
-    ]
-  },
-  "2026-07-04": {
-    "date": "2026-07-04",
-    "totalGames": 2,
-    "games": [
-      {
         "homeTeam": "Inter de Limeira",
         "awayTeam": "Maranhão",
         "competition": "Brazilian Championship",
@@ -296,20 +230,12 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rkxo201679387874.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "União São João",
-        "awayTeam": "Santos",
-        "competition": "Unknown Competition",
-        "time": "11:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tnjln21754476119.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
       }
     ]
+  },
+  "2026-07-05": {
+    "date": "2026-07-05",
+    "totalGames": 0,
+    "games": []
   }
 }
