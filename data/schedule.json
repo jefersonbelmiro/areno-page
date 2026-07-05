@@ -1,8 +1,27 @@
 {
-  "2026-07-04": {
-    "date": "2026-07-04",
-    "totalGames": 16,
+  "2026-07-05": {
+    "date": "2026-07-05",
+    "totalGames": 17,
     "games": [
+      {
+        "homeTeam": "Egito",
+        "awayTeam": "Argentina",
+        "competition": "Copa do Mundo (oitavas de final)",
+        "time": "13:00",
+        "whereToWatch": [
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT",
+          "globoplay"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Argentina"
+      },
       {
         "homeTeam": "Canadá",
         "awayTeam": "Marrocos",
@@ -12,10 +31,9 @@
           "CazéTV",
           "Globo",
           "Sportv",
-          "ge TV",
+          "ge tv",
           "SBT",
-          "N Sports",
-          "globoplay"
+          "N Sports"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
@@ -68,7 +86,13 @@
         "competition": "Copa do Mundo (oitavas de final)",
         "time": "16:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
@@ -93,6 +117,21 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Norway"
+      },
+      {
+        "homeTeam": "Suíça",
+        "awayTeam": "Colômbia",
+        "competition": "Copa do Mundo (oitavas de final)",
+        "time": "17:00",
+        "whereToWatch": [
+          "CazéTV",
+          "Globo",
+          "Sportv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+        "homeTeamCountry": "Switzerland",
+        "awayTeamCountry": "Colombia"
       },
       {
         "homeTeam": "Paraguai",
@@ -182,7 +221,8 @@
         "time": "20:30",
         "whereToWatch": [
           "Sportv. ge tv",
-          "Premiere"
+          "Premiere",
+          "sportv"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wywuwv1464886832.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
@@ -214,27 +254,11 @@
         "awayTeamLogo": null,
         "homeTeamCountry": "United States",
         "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Inter de Limeira",
-        "awayTeam": "Maranhão",
-        "competition": "Brazilian Championship",
-        "time": "17:00",
-        "whereToWatch": [
-          "sportv",
-          "Globo",
-          "globoplay",
-          "Ge TV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/26em5b1772177092.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rkxo201679387874.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
       }
     ]
   },
-  "2026-07-05": {
-    "date": "2026-07-05",
+  "2026-07-06": {
+    "date": "2026-07-06",
     "totalGames": 0,
     "games": []
   }
