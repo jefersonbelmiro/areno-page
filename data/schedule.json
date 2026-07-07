@@ -1,6 +1,6 @@
 {
-  "2026-07-06": {
-    "date": "2026-07-06",
+  "2026-07-07": {
+    "date": "2026-07-07",
     "totalGames": 12,
     "games": [
       {
@@ -14,8 +14,7 @@
           "ge tv",
           "Sportv",
           "N Sports",
-          "SBT",
-          "globoplay"
+          "SBT"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
@@ -23,23 +22,17 @@
         "awayTeamCountry": "Argentina"
       },
       {
-        "homeTeam": "Portugal",
-        "awayTeam": "Espanha",
-        "competition": "Copa do Mundo (oitavas de final)",
+        "homeTeam": "Espanha",
+        "awayTeam": "Bélgica",
+        "competition": "Copa do Mundo (quartas de final)",
         "time": "16:00",
         "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "ge tv",
-          "Sportv",
-          "N Sports",
-          "SBT",
-          "globoplay"
+          "CazéTV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
-        "homeTeamCountry": "Portugal",
-        "awayTeamCountry": "Spain"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Spain",
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Flamengo",
@@ -73,28 +66,28 @@
         "awayTeamCountry": "Colombia"
       },
       {
-        "homeTeam": "Botafogo-SP",
-        "awayTeam": "Avaí",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "19:00",
+        "homeTeam": "França",
+        "awayTeam": "Marrocos",
+        "competition": "Copa do Mundo (quartas de final)",
+        "time": "17:00",
         "whereToWatch": [
-          "Disney+"
+          "CazéTV"
         ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Morocco"
       },
       {
-        "homeTeam": "Vila Nova",
-        "awayTeam": "São Bernardo",
+        "homeTeam": "Juventude",
+        "awayTeam": "Vila Nova",
         "competition": "Campeonato Brasileiro (segunda divisão)",
         "time": "19:00",
         "whereToWatch": [
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0kt1ah1688106304.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       },
@@ -126,6 +119,20 @@
         "awayTeamCountry": "Brazil"
       },
       {
+        "homeTeam": "Sport",
+        "awayTeam": "Botafogo-SP",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "20:00",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ccv781758334788.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Kuwait",
+        "awayTeamCountry": null
+      },
+      {
         "homeTeam": "Fluminense",
         "awayTeam": "Nova Iguaçu",
         "competition": "Amistosos de Clubes",
@@ -139,19 +146,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7fc7co1740846884.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Estados Unidos",
-        "awayTeam": "Bélgica",
-        "competition": "Copa do Mundo (oitavas de final)",
-        "time": "21:00",
-        "whereToWatch": [
-          "CazéTV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "United States",
-        "awayTeamCountry": null
       },
       {
         "homeTeam": "Boca Juniors",
@@ -168,25 +162,6 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Figueirense",
-        "awayTeam": "Brusque",
-        "competition": "Brazilian Championship",
-        "time": "19:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvvyps1473538067.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/o7p43b1766507803.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      }
-    ]
-  },
-  "2026-07-07": {
-    "date": "2026-07-07",
-    "totalGames": 1,
-    "games": [
-      {
         "homeTeam": "Operário-PR",
         "awayTeam": "Athletic Club",
         "competition": "Brazilian Championship",
@@ -200,5 +175,10 @@
         "awayTeamCountry": "Brazil"
       }
     ]
+  },
+  "2026-07-08": {
+    "date": "2026-07-08",
+    "totalGames": 0,
+    "games": []
   }
 }
