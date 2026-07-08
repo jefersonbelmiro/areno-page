@@ -1,33 +1,19 @@
 {
-  "2026-07-07": {
-    "date": "2026-07-07",
-    "totalGames": 12,
+  "2026-07-08": {
+    "date": "2026-07-08",
+    "totalGames": 9,
     "games": [
-      {
-        "homeTeam": "Egito",
-        "awayTeam": "Argentina",
-        "competition": "Copa do Mundo (oitavas de final)",
-        "time": "13:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "ge tv",
-          "Sportv",
-          "N Sports",
-          "SBT"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Argentina"
-      },
       {
         "homeTeam": "Espanha",
         "awayTeam": "Bélgica",
         "competition": "Copa do Mundo (quartas de final)",
         "time": "16:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "sportv",
+          "Globo",
+          "globoplay",
+          "Ge TV"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
         "awayTeamLogo": null,
@@ -42,7 +28,8 @@
         "whereToWatch": [
           "Sportv",
           "ge tv",
-          "Premiere"
+          "Premiere",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/24kiss1703935058.png",
@@ -50,28 +37,16 @@
         "awayTeamCountry": "Switzerland"
       },
       {
-        "homeTeam": "Suíça",
-        "awayTeam": "Colômbia",
-        "competition": "Copa do Mundo (oitavas de final)",
-        "time": "17:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "Sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
-        "homeTeamCountry": "Switzerland",
-        "awayTeamCountry": "Colombia"
-      },
-      {
         "homeTeam": "França",
         "awayTeam": "Marrocos",
         "competition": "Copa do Mundo (quartas de final)",
         "time": "17:00",
         "whereToWatch": [
-          "CazéTV"
+          "CazéTV",
+          "sportv",
+          "Globo",
+          "globoplay",
+          "Ge TV"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
@@ -90,19 +65,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Athletic Club-MG",
-        "awayTeam": "Operário-PR",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "20:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "United States",
-        "awayTeamCountry": null
       },
       {
         "homeTeam": "Ponte Preta",
@@ -140,7 +102,8 @@
         "whereToWatch": [
           "Sportv",
           "ge tv",
-          "Premiere"
+          "Premiere",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7fc7co1740846884.png",
@@ -162,22 +125,22 @@
         "awayTeamCountry": null
       },
       {
-        "homeTeam": "Operário-PR",
-        "awayTeam": "Athletic Club",
+        "homeTeam": "Bragantino",
+        "awayTeam": "Athletico-PR",
         "competition": "Brazilian Championship",
-        "time": "20:00",
+        "time": "15:00",
         "whereToWatch": [
           "Disney+"
         ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
       }
     ]
   },
-  "2026-07-08": {
-    "date": "2026-07-08",
+  "2026-07-09": {
+    "date": "2026-07-09",
     "totalGames": 0,
     "games": []
   }
