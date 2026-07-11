@@ -1,7 +1,7 @@
 {
-  "2026-07-10": {
-    "date": "2026-07-10",
-    "totalGames": 14,
+  "2026-07-11": {
+    "date": "2026-07-11",
+    "totalGames": 13,
     "games": [
       {
         "homeTeam": "Operário-PR",
@@ -32,25 +32,6 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
         "homeTeamCountry": "Portugal",
         "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Espanha",
-        "awayTeam": "Bélgica",
-        "competition": "Copa do Mundo (quartas de final)",
-        "time": "16:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "ge tv",
-          "Sportv",
-          "N Sports",
-          "SBT",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Spain",
-        "awayTeamCountry": null
       },
       {
         "homeTeam": "Avaí",
@@ -152,19 +133,6 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Juventude",
-        "awayTeam": "Vila Nova",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "19:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
         "homeTeam": "CRB",
         "awayTeam": "Goiás",
         "competition": "Campeonato Brasileiro (segunda divisão)",
@@ -181,20 +149,31 @@
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Sport",
-        "awayTeam": "Botafogo-SP",
+        "homeTeam": "América-MG",
+        "awayTeam": "Londrina",
         "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "20:00",
+        "time": "19:00",
         "whereToWatch": [
-          "SportyNet",
-          "Xsports",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Ceará",
+        "awayTeam": "Athletic Club-MG",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "20:30",
+        "whereToWatch": [
           "ESPN",
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ccv781758334788.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Kuwait",
-        "awayTeamCountry": null
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "United States"
       },
       {
         "homeTeam": "Argentina",
@@ -211,9 +190,39 @@
       }
     ]
   },
-  "2026-07-11": {
-    "date": "2026-07-11",
-    "totalGames": 0,
-    "games": []
+  "2026-07-12": {
+    "date": "2026-07-12",
+    "totalGames": 2,
+    "games": [
+      {
+        "homeTeam": "Ferroviária",
+        "awayTeam": "Ituano",
+        "competition": "Brazilian Championship",
+        "time": "16:00",
+        "whereToWatch": [
+          "sportv",
+          "globoplay",
+          "Ge TV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zfo1y81766506623.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/7fg7n71596796444.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Velo Clube",
+        "awayTeam": "São Luiz",
+        "competition": "Brazilian Championship",
+        "time": "15:30",
+        "whereToWatch": [
+          "sportv",
+          "Ge TV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/07wd4q1754136987.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/o1tviq1688105899.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      }
+    ]
   }
 }
