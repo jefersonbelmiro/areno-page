@@ -1,81 +1,47 @@
 {
-  "2026-07-13": {
-    "date": "2026-07-13",
-    "totalGames": 5,
+  "2026-07-14": {
+    "date": "2026-07-14",
+    "totalGames": 2,
     "games": [
       {
-        "homeTeam": "América-MG",
-        "awayTeam": "Londrina",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "19:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Ceará",
-        "awayTeam": "Athletic Club-MG",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "20:30",
-        "whereToWatch": [
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "United States"
-      },
-      {
-        "homeTeam": "Espanha",
-        "awayTeam": "França",
-        "competition": "Cup",
+        "homeTeam": "França",
+        "awayTeam": "Espanha",
+        "competition": "Copa do Mundo (semifinal)",
         "time": "16:00",
         "whereToWatch": [
+          "CazéTV",
           "sportv",
           "Globo",
           "globoplay",
           "Ge TV"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
-        "homeTeamCountry": "Spain",
-        "awayTeamCountry": "Brazil"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Spain"
       },
       {
-        "homeTeam": "Athletic Club",
-        "awayTeam": "Ceará",
-        "competition": "Brazilian Championship",
-        "time": "20:30",
+        "homeTeam": "Inglaterra",
+        "awayTeam": "Argentina",
+        "competition": "Copa do Mundo (semifinal)",
+        "time": "16:00",
         "whereToWatch": [
-          "Disney+"
+          "CazéTV",
+          "Globo",
+          "ge tv",
+          "Sportv",
+          "N Sports",
+          "SBT"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Volta Redonda",
-        "awayTeam": "Figueirense",
-        "competition": "Brazilian Championship",
-        "time": "20:30",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/phc5fs1736379773.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvvyps1473538067.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Argentina"
       }
     ]
   },
-  "2026-07-14": {
-    "date": "2026-07-14",
+  "2026-07-15": {
+    "date": "2026-07-15",
     "totalGames": 0,
     "games": []
   }
