@@ -1,7 +1,7 @@
 {
-  "2026-07-17": {
-    "date": "2026-07-17",
-    "totalGames": 30,
+  "2026-07-18": {
+    "date": "2026-07-18",
+    "totalGames": 25,
     "games": [
       {
         "homeTeam": "Palmeiras (F)",
@@ -56,19 +56,6 @@
         "awayTeamCountry": "France"
       },
       {
-        "homeTeam": "Benfica",
-        "awayTeam": "Villarreal",
-        "competition": "Amistosos de Clubes",
-        "time": "15:45",
-        "whereToWatch": [
-          "SportyNet"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
-        "homeTeamCountry": "Portugal",
-        "awayTeamCountry": "Spain"
-      },
-      {
         "homeTeam": "Ponte Preta",
         "awayTeam": "Goiás",
         "competition": "Campeonato Brasileiro (segunda divisão)",
@@ -102,7 +89,8 @@
         "competition": "Campeonato Brasileiro (segunda divisão)",
         "time": "16:00",
         "whereToWatch": [
-          "ESPN 4 e Disney+"
+          "ESPN 4 e Disney+",
+          "Disney+"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
@@ -127,6 +115,32 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
         "homeTeamCountry": "Spain",
         "awayTeamCountry": "Argentina"
+      },
+      {
+        "homeTeam": "Sporting",
+        "awayTeam": "Strasbourg",
+        "competition": "Amistosos de Clubes",
+        "time": "16:15",
+        "whereToWatch": [
+          "SportyNet"
+        ],
+        "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png",
+        "homeTeamCountry": "Portugal",
+        "awayTeamCountry": "France"
+      },
+      {
+        "homeTeam": "Fluminense (F)",
+        "awayTeam": "Cruzeiro (F)",
+        "competition": "Copa do Brasil Feminina (oitavas de final)",
+        "time": "16:30",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/w6sm8l1767199303.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       },
       {
         "homeTeam": "França",
@@ -162,118 +176,58 @@
         "awayTeamCountry": "United States"
       },
       {
-        "homeTeam": "Juventude",
-        "awayTeam": "Cuiabá",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "homeTeam": "Nacional-URU",
+        "awayTeam": "Tigre",
+        "competition": "Copa Sul-Americana (playoffs das oitavas)",
         "time": "19:00",
         "whereToWatch": [
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "São Bernardo",
-        "awayTeam": "Avaí",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "19:00",
-        "whereToWatch": [
-          "Premiere",
-          "sportv"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0kt1ah1688106304.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "América-MG",
-        "awayTeam": "Ceará",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "19:00",
-        "whereToWatch": [
-          "Disney+",
-          "premiere",
-          "sportv"
-        ],
         "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/rxxvyp1464886685.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
         "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
+        "awayTeamCountry": "Argentina"
       },
       {
-        "homeTeam": "Corinthians (F)",
-        "awayTeam": "Ferroviária (F)",
-        "competition": "Campeonato Paulista Feminino",
-        "time": "19:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Record News",
-          "HBO Max"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zfo1y81766506623.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Bahia",
-        "awayTeam": "Chapecoense",
+        "homeTeam": "Atlético-MG",
+        "awayTeam": "Bahia",
         "competition": "Campeonato Brasileiro",
         "time": "19:30",
-        "whereToWatch": [
-          "Premiere",
-          "sportv"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Mirassol",
-        "awayTeam": "Grêmio",
-        "competition": "Campeonato Brasileiro",
-        "time": "20:00",
-        "whereToWatch": [
-          "Premiere",
-          "sportv"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Fluminense",
-        "awayTeam": "RB Bragantino",
-        "competition": "Campeonato Brasileiro",
-        "time": "20:00",
         "whereToWatch": [
           "Sportv",
           "Premiere"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/sqwrcu1646600551.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Flamengo",
-        "awayTeam": "Olimpia",
-        "competition": "Amistosos de Clubes",
-        "time": "20:00",
+        "homeTeam": "Novorizontino",
+        "awayTeam": "Criciúma",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "19:30",
         "whereToWatch": [
-          "FlamengoTV",
-          "sportv",
-          "globoplay"
+          "ESPN 4",
+          "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/387so51673691928.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
         "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Uruguay"
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Avaí",
+        "awayTeam": "América-MG",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "19:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bblkat1766506007.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "Pumas UNAM",
@@ -289,72 +243,48 @@
         "awayTeamCountry": "Mexico"
       },
       {
-        "homeTeam": "Fortaleza",
-        "awayTeam": "Novorizontino",
-        "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "21:00",
+        "homeTeam": "Universidad Central",
+        "awayTeam": "Santos",
+        "competition": "Copa Sul-Americana (playoffs das oitavas)",
+        "time": "21:30",
         "whereToWatch": [
-          "SportyNet",
-          "Xsports",
+          "SBT",
           "ESPN",
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
-        "homeTeamCountry": "Brazil",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ok2ssk1766114071.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "homeTeamCountry": "Venezuela",
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Londrina",
-        "awayTeam": "Botafogo-SP",
+        "homeTeam": "Vila Nova",
+        "awayTeam": "Fortaleza",
         "competition": "Campeonato Brasileiro (segunda divisão)",
-        "time": "21:00",
+        "time": "21:35",
         "whereToWatch": [
+          "Canal GOAT",
+          "RedeTV!",
+          "ESPN 4",
           "Disney+"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Santos (F)",
-        "awayTeam": "Taubaté (F)",
-        "competition": "Campeonato Paulista Feminino",
-        "time": "21:00",
-        "whereToWatch": [
-          "Paulistão (YouTube)"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/6xlvwq1764126850.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Nashville",
-        "awayTeam": "Atlanta United",
-        "competition": "MLS",
-        "time": "21:10",
+        "homeTeam": "Vasco (F)",
+        "awayTeam": "São Paulo (F)",
+        "competition": "Copa do Brasil Feminina (oitavas de final)",
+        "time": "21:45",
         "whereToWatch": [
-          "Apple TV"
+          "Sportv"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nqis9i1580591227.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ej091x1602103070.png",
-        "homeTeamCountry": "United States",
-        "awayTeamCountry": "United States"
-      },
-      {
-        "homeTeam": "Atletico San Luis",
-        "awayTeam": "Cruz Azul",
-        "competition": "Campeonato Mexicano",
-        "time": "22:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png",
-        "homeTeamCountry": "Mexico",
-        "awayTeamCountry": "Mexico"
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/youecm1649793339.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       },
       {
         "homeTeam": "Monterrey",
@@ -370,65 +300,6 @@
         "awayTeamCountry": "Mexico"
       },
       {
-        "homeTeam": "LA Gala",
-        "awayTeam": "y",
-        "competition": "MLS",
-        "time": "23:25",
-        "whereToWatch": [
-          "Apple TV"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "United States",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Botafogo",
-        "awayTeam": "Vitória",
-        "competition": "Women's Football",
-        "time": "15:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Bragantino",
-        "awayTeam": "Fluminense",
-        "competition": "Brazilian Championship",
-        "time": "20:00",
-        "whereToWatch": [
-          "sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Ferroviária",
-        "awayTeam": "Corinthians",
-        "competition": "Women's Football",
-        "time": "19:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zfo1y81766506623.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      }
-    ]
-  },
-  "2026-07-18": {
-    "date": "2026-07-18",
-    "totalGames": 3,
-    "games": [
-      {
         "homeTeam": "Athletic Club",
         "awayTeam": "Atlético-GO",
         "competition": "Brazilian Championship",
@@ -443,6 +314,19 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7382k1766505911.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Iguatu",
+        "awayTeam": "Nacional-AM",
+        "competition": "Brazilian Championship",
+        "time": "16:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wel4n01768450426.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
       },
       {
         "homeTeam": "ASA",
@@ -471,5 +355,10 @@
         "awayTeamCountry": "Brazil"
       }
     ]
+  },
+  "2026-07-19": {
+    "date": "2026-07-19",
+    "totalGames": 0,
+    "games": []
   }
 }
