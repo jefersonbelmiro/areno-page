@@ -1,27 +1,8 @@
 {
-  "2026-07-19": {
-    "date": "2026-07-19",
-    "totalGames": 11,
+  "2026-07-20": {
+    "date": "2026-07-20",
+    "totalGames": 9,
     "games": [
-      {
-        "homeTeam": "Espanha",
-        "awayTeam": "Argentina",
-        "competition": "Copa do Mundo (final)",
-        "time": "16:00",
-        "whereToWatch": [
-          "CazéTV",
-          "Globo",
-          "ge tv",
-          "Sportv",
-          "N Sports",
-          "SBT",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
-        "homeTeamCountry": "Spain",
-        "awayTeamCountry": "Argentina"
-      },
       {
         "homeTeam": "Sporting",
         "awayTeam": "Strasbourg",
@@ -145,26 +126,53 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/youecm1649793339.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
+      }
+    ]
+  },
+  "2026-07-21": {
+    "date": "2026-07-21",
+    "totalGames": 3,
+    "games": [
+      {
+        "homeTeam": "3B da Amazônia",
+        "awayTeam": "Flamengo",
+        "competition": "Cup",
+        "time": "19:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/yxunib1743745949.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       },
       {
-        "homeTeam": "Brasil",
-        "awayTeam": "China",
-        "competition": "Unknown Competition",
-        "time": "14:00",
+        "homeTeam": "Cruzeiro",
+        "awayTeam": "Fluminense",
+        "competition": "Cup",
+        "time": "16:30",
         "whereToWatch": [
           "sportv",
           "globoplay"
         ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pycrnz1710606856.png",
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
         "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "China"
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Fortaleza",
+        "awayTeam": "Athletico-PR",
+        "competition": "Brazilian Championship",
+        "time": "15:00",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
       }
     ]
-  },
-  "2026-07-20": {
-    "date": "2026-07-20",
-    "totalGames": 0,
-    "games": []
   }
 }
