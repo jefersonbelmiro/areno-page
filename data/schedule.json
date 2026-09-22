@@ -1,84 +1,7 @@
 {
-  "2026-09-21": {
-    "date": "2026-09-21",
-    "totalGames": 5,
-    "games": [
-      {
-        "homeTeam": "Criciúma",
-        "awayTeam": "Operário-PR",
-        "competition": "Campeonato Brasileiro (Segunda Divisão)",
-        "time": "19:30",
-        "whereToWatch": [
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
-        "awayTeamLogo": null,
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": null
-      },
-      {
-        "homeTeam": "Cuiabá",
-        "awayTeam": "Náutico",
-        "competition": "Campeonato Brasileiro (Segunda Divisão)",
-        "time": "21:30",
-        "whereToWatch": [
-          "Xsports",
-          "SportyNet",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wywuwv1464886832.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Corinthians (F)",
-        "awayTeam": "Bahia (F)",
-        "competition": "Campeonato Brasileiro Feminino",
-        "time": "21:30",
-        "whereToWatch": [
-          "Sportv",
-          "NSports",
-          "TV Brasil"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Bahia",
-        "awayTeam": "Corinthians",
-        "competition": "Women's Football",
-        "time": "21:30",
-        "whereToWatch": [
-          "sportv",
-          "globoplay"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      },
-      {
-        "homeTeam": "Paraná",
-        "awayTeam": "Londrina",
-        "competition": "Unknown Competition",
-        "time": "19:30",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vuuwqu1464886978.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
-        "homeTeamCountry": "Brazil",
-        "awayTeamCountry": "Brazil"
-      }
-    ]
-  },
   "2026-09-22": {
     "date": "2026-09-22",
-    "totalGames": 5,
+    "totalGames": 6,
     "games": [
       {
         "homeTeam": "Bayern de Munique (F)",
@@ -146,6 +69,19 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png",
         "homeTeamCountry": "Italy",
         "awayTeamCountry": "Portugal"
+      },
+      {
+        "homeTeam": "Operário-PR",
+        "awayTeam": "Criciúma",
+        "competition": "Brazilian Championship",
+        "time": "19:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Brazil"
       }
     ]
   },
@@ -219,6 +155,273 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/kkjlfa1556488022.png",
         "homeTeamCountry": "United States",
         "awayTeamCountry": "United States"
+      }
+    ]
+  },
+  "2026-09-24": {
+    "date": "2026-09-24",
+    "totalGames": 8,
+    "games": [
+      {
+        "homeTeam": "Andorra",
+        "awayTeam": "Malta",
+        "competition": "Liga das Nações D",
+        "time": "13:00",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/l5qspn1552847356.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/9esmq41650311389.png",
+        "homeTeamCountry": "Andorra",
+        "awayTeamCountry": "Malta"
+      },
+      {
+        "homeTeam": "Holanda",
+        "awayTeam": "Alemanha",
+        "competition": "Liga das Nações A",
+        "time": "15:45",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Portugal",
+        "awayTeam": "País de Gales",
+        "competition": "Liga das Nações A",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pdayn21591983222.png",
+        "homeTeamCountry": "Portugal",
+        "awayTeamCountry": "Wales"
+      },
+      {
+        "homeTeam": "Noruega",
+        "awayTeam": "DInamarca",
+        "competition": "Liga das Nações A",
+        "time": "15:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Norway",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Sérvia",
+        "awayTeam": "Grécia",
+        "competition": "Liga das Nações A",
+        "time": "15:45",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/oxvynb1689195538.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3dajnx1606771893.png",
+        "homeTeamCountry": "Serbia",
+        "awayTeamCountry": "Costa Rica"
+      },
+      {
+        "homeTeam": "Kosovo",
+        "awayTeam": "Irlanda",
+        "competition": "Liga das Nações B",
+        "time": "15:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/i3wq751730304457.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pratdm1515531815.png",
+        "homeTeamCountry": "Kosovo",
+        "awayTeamCountry": "Northern Ireland"
+      },
+      {
+        "homeTeam": "Áustria",
+        "awayTeam": "Israel",
+        "competition": "Liga das Nações B",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv 2"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/me4lfd1515700405.png",
+        "homeTeamCountry": "Austria",
+        "awayTeamCountry": "Israel"
+      },
+      {
+        "homeTeam": "Liechtenstein",
+        "awayTeam": "Lituânia",
+        "competition": "Liga das Nações D",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv 3"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/4o0nlh1591970494.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Liechtenstein",
+        "awayTeamCountry": null
+      }
+    ]
+  },
+  "2026-09-25": {
+    "date": "2026-09-25",
+    "totalGames": 11,
+    "games": [
+      {
+        "homeTeam": "Austrália",
+        "awayTeam": "Brasil",
+        "competition": "Amistoso Internacional",
+        "time": "07:00",
+        "whereToWatch": [
+          "Globo",
+          "ge tv",
+          "Sportv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/eylq8x1781926138.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/5fqhj61767198783.png",
+        "homeTeamCountry": "Australia",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Geórgia",
+        "awayTeam": "Irlanda do Norte",
+        "competition": "Liga das Nações B",
+        "time": "13:00",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/so7nct1641185101.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pratdm1515531815.png",
+        "homeTeamCountry": "United States",
+        "awayTeamCountry": "Northern Ireland"
+      },
+      {
+        "homeTeam": "Armênia",
+        "awayTeam": "Letônia",
+        "competition": "Liga das Nações C",
+        "time": "13:00",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/8gcur81705941637.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Armenia",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Turquia",
+        "awayTeam": "França",
+        "competition": "Liga das Nações A",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Itália",
+        "awayTeam": "Bélgica",
+        "competition": "Liga das Nações A",
+        "time": "15:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/fxijcp1726167035.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Italy",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Polônia",
+        "awayTeam": "Bósnia e Herzegovina",
+        "competition": "Liga das Nações B",
+        "time": "15:45",
+        "whereToWatch": [
+          "ESPN 4",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/6syyw81767929755.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png",
+        "homeTeamCountry": "Poland",
+        "awayTeamCountry": "Bosnia and Herzegovina"
+      },
+      {
+        "homeTeam": "Suécia",
+        "awayTeam": "Romênia",
+        "competition": "Liga das Nações B",
+        "time": "15:45",
+        "whereToWatch": [
+          "ESPN",
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/w903wb1689198300.png",
+        "homeTeamCountry": "Sweden",
+        "awayTeamCountry": "Romania"
+      },
+      {
+        "homeTeam": "Hungria",
+        "awayTeam": "Ucrânia",
+        "competition": "Liga das Nações B",
+        "time": "15:45",
+        "whereToWatch": [
+          "Sportv 2"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/k36g2e1591982718.png",
+        "homeTeamCountry": null,
+        "awayTeamCountry": "Ukraine"
+      },
+      {
+        "homeTeam": "Montenegro",
+        "awayTeam": "Chipre",
+        "competition": "Liga das Nações C",
+        "time": "15:45",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/dywswx1552859263.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Montenegro",
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "Novorizontino",
+        "awayTeam": "São Bernardo",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "19:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2qwxw51617198963.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/0kt1ah1688106304.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Vila Nova",
+        "awayTeam": "Londrina",
+        "competition": "Campeonato Brasileiro (segunda divisão)",
+        "time": "20:30",
+        "whereToWatch": [
+          "Disney+"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/nwd4ns1740851638.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/xp2z9j1740846583.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       }
     ]
   }
