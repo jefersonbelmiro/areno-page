@@ -1,90 +1,4 @@
 {
-  "2026-09-22": {
-    "date": "2026-09-22",
-    "totalGames": 6,
-    "games": [
-      {
-        "homeTeam": "Bayern de Munique (F)",
-        "awayTeam": "Manchester City (F)",
-        "competition": "Champions League Feminina",
-        "time": "13:45",
-        "whereToWatch": [
-          "ESPN 4",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/musgh91779580451.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-        "homeTeamCountry": "Germany",
-        "awayTeamCountry": "England"
-      },
-      {
-        "homeTeam": "Inter de Milão (F)",
-        "awayTeam": "Hacken (F)",
-        "competition": "Champions League Feminina",
-        "time": "13:45",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/plo1hz1784764806.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zyl9m01523905866.png",
-        "homeTeamCountry": "Spain",
-        "awayTeamCountry": "Sweden"
-      },
-      {
-        "homeTeam": "Real Madrid (F)",
-        "awayTeam": "PSG (F)",
-        "competition": "Champions League Feminina",
-        "time": "16:00",
-        "whereToWatch": [
-          "ESPN",
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/buhef11664011241.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/26f50y1705434178.png",
-        "homeTeamCountry": "Spain",
-        "awayTeamCountry": "Hong Kong"
-      },
-      {
-        "homeTeam": "Arsenal (F)",
-        "awayTeam": "HB Koge (F)",
-        "competition": "Champions League Feminina",
-        "time": "16:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ih5a691690278559.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gglzbg1782014174.png",
-        "homeTeamCountry": "Romania",
-        "awayTeamCountry": "Denmark"
-      },
-      {
-        "homeTeam": "Juventus (F)",
-        "awayTeam": "Benfica (F)",
-        "competition": "Champions League feminina",
-        "time": "16:00",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png",
-        "homeTeamCountry": "Italy",
-        "awayTeamCountry": "Portugal"
-      },
-      {
-        "homeTeam": "Operário-PR",
-        "awayTeam": "Criciúma",
-        "competition": "Brazilian Championship",
-        "time": "19:30",
-        "whereToWatch": [
-          "Disney+"
-        ],
-        "homeTeamLogo": null,
-        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/r11mld1766506200.png",
-        "homeTeamCountry": null,
-        "awayTeamCountry": "Brazil"
-      }
-    ]
-  },
   "2026-09-23": {
     "date": "2026-09-23",
     "totalGames": 5,
@@ -196,7 +110,8 @@
         "competition": "Liga das Nações A",
         "time": "15:45",
         "whereToWatch": [
-          "Sportv"
+          "Sportv",
+          "globoplay"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/pdayn21591983222.png",
