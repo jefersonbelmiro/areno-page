@@ -51,8 +51,7 @@
         "competition": "Liga das Nações A",
         "time": "15:45",
         "whereToWatch": [
-          "Sportv",
-          "globoplay"
+          "Sportv"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/gntpa01754477094.png",
@@ -156,7 +155,7 @@
   },
   "2026-09-26": {
     "date": "2026-09-26",
-    "totalGames": 31,
+    "totalGames": 34,
     "games": [
       {
         "homeTeam": "Charlton (F)",
@@ -535,6 +534,21 @@
         "awayTeamCountry": "United States"
       },
       {
+        "homeTeam": "São Paulo",
+        "awayTeam": "Corinthians",
+        "competition": "Women's Football",
+        "time": "16:30",
+        "whereToWatch": [
+          "sportv",
+          "globoplay",
+          "Ge TV"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
         "homeTeam": "Santa Cruz",
         "awayTeam": "Floresta",
         "competition": "Brazilian Championship",
@@ -572,12 +586,38 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/26em5b1772177092.png",
         "homeTeamCountry": "Brazil",
         "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Comercial-PI",
+        "awayTeam": "Caiçara",
+        "competition": "Unknown Competition",
+        "time": "17:00",
+        "whereToWatch": [
+          "SportyNet"
+        ],
+        "homeTeamLogo": null,
+        "awayTeamLogo": null,
+        "homeTeamCountry": null,
+        "awayTeamCountry": null
+      },
+      {
+        "homeTeam": "4 de Julho",
+        "awayTeam": "River-PI",
+        "competition": "Unknown Competition",
+        "time": "17:00",
+        "whereToWatch": [
+          "SportyNet"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/37no9s1736400599.png",
+        "awayTeamLogo": null,
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": null
       }
     ]
   },
   "2026-09-27": {
     "date": "2026-09-27",
-    "totalGames": 10,
+    "totalGames": 13,
     "games": [
       {
         "homeTeam": "Lituânia",
@@ -666,7 +706,8 @@
         "competition": "Liga das Nações A",
         "time": "15:45",
         "whereToWatch": [
-          "Sportv"
+          "Sportv",
+          "globoplay"
         ],
         "homeTeamLogo": null,
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/3dajnx1606771893.png",
@@ -681,7 +722,8 @@
         "whereToWatch": [
           "Xsports",
           "SportyNet (TV e YouTube)",
-          "DIsney+"
+          "DIsney+",
+          "SportyNet"
         ],
         "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/vpypuq1472069179.png",
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/ykbxfa1766506334.png",
@@ -717,6 +759,47 @@
         "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
         "homeTeamCountry": "United States",
         "awayTeamCountry": "United States"
+      },
+      {
+        "homeTeam": "Athletic Club",
+        "awayTeam": "Fortaleza",
+        "competition": "Brazilian Championship",
+        "time": "18:30",
+        "whereToWatch": [
+          "Disney+",
+          "SportyNet"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "Ferroviária",
+        "awayTeam": "Brusque",
+        "competition": "Brazilian Championship",
+        "time": "18:30",
+        "whereToWatch": [
+          "SportyNet"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zfo1y81766506623.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/o7p43b1766507803.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
+      },
+      {
+        "homeTeam": "São José-SP",
+        "awayTeam": "Noroeste",
+        "competition": "Cup",
+        "time": "10:00",
+        "whereToWatch": [
+          "sportv",
+          "globoplay"
+        ],
+        "homeTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/2mxcvh1736635801.png",
+        "awayTeamLogo": "https://r2.thesportsdb.com/images/media/team/badge/zgkcd81754137165.png",
+        "homeTeamCountry": "Brazil",
+        "awayTeamCountry": "Brazil"
       }
     ]
   },
